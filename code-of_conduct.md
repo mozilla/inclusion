@@ -32,7 +32,7 @@ We can all make mistakes; when we do, we take responsibility for them.  If someo
 
 Be mindful of your surroundings and of your fellow participants. Alert an event organizer / Participation Team member if you notice a dangerous situation, someone in distress, or violations of this Guideline. If something makes you feel concerned, or worried - even if you’re not sure it’s a violation, it’s better to reach out, than to ignore.
 
-Be mindful of [local laws](http://www.goabroad.com/articles/study-abroad/singapore-laws-to-know-before-you-go), and protect each other from making public - personal information that may put people at risk of appearing to violate those laws.
+Be mindful of local laws, and protect each other from making public - personal information that may put people at risk of appearing to violate those laws.
 
 Remember that sprint venues may be shared with others; please be respectful to all patrons of these locations.
 
