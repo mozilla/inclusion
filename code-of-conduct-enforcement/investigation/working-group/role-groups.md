@@ -15,7 +15,7 @@
 Person who helps see the process through to completion, by ensuring processes are followed, consultation occurs, and communication happens with stakeholders.
 
 #### Community Participation Guidelines Partners (CPGP)
-This is those appointed to receive complaints via the inclusion@mozilla alias listed for direct reporting violations of the CPG.
+CPG decision makers, and partners in resolution
 
 #### Community Conflict Report Managers (CCRM)
 Community leadership group/community manager/project maintainer responsible for the core area of the project where the CPG violation(s) is said to have originated. This may be managing with or without supporting staff.
