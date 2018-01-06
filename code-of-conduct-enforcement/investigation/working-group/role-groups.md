@@ -36,3 +36,6 @@ Projects at Mozilla where those involved in the CPG complaint participate, and/o
 #### Resolution Working Group (RWG)
 A temporary group of individuals with roles - Community Manager, Enforcement, any involved Investigator and Case Coordinator who help consult and push the process to resolution with recommendations & decision making.
 The working group will expand & contract as needed.
+
+#### Systems Consultation 
+In cases where systems are used, violated, compromised or otherwise leveraged as part of the violation complaint, this group consults, and may be part of the working group.
