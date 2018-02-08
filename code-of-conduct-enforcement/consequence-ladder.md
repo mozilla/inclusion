@@ -15,6 +15,7 @@ Recommendations indicate a violation of CPG through a single incident or series 
 
 ### Level 3: Warning + Mandatory Cooling Off Period (Tool access retained)
 * A private warning from project leadership, with **clarity of violation, consequences of continued behavior**.
+* Required - no interaction with other ppl involved
 * Mandatory Cooling off Period   (Tools are not revoked)
 * Mandatory CPG onboarding process 
 
