@@ -5,7 +5,7 @@ The notion of a 'ladder' is that each time we take an action (ban, warning) the 
 ### Level 0: No Action
 Recomendations do not indicate violation of CPG
 
-### Level 1:Simple Warning Issued
+### Level 1: Simple Warning Issued
 * A private, written warning from project leadership, with **clarity of violation, consequences of continued behavior**.
 
 ### Level 2: Warning + Mediation
