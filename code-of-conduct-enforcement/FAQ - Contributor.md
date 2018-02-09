@@ -5,7 +5,8 @@ Below is a list of popular questions, and some answers around the Community Part
 ### What is a CPG Onboarding?
 
 CPG onboarding, is often part of a decision involving behavior that results in a temporary ban. 
-It is scheduled prior to the time of reinstatement, and is overall meant to be a positive and empowering experience.
+It is scheduled prior to the time of reinstatement, and is overall meant to be a positive and empowering experience. It usually takes about 1 hour, and is held in video, or text-based chat (depending on bandwidth).
+
 A CPG onboarding typically covers these basic topics:
 1. Review of decision, and how to avoid repeat violation.(tips and tricks)
 2. Reinstatement outline.  This is very dependent on the individual, and the violation - but is used to describe what a return to participation at Mozilla will look like.  There may be some permenant bans from certain channels, tools or events - but primarily this is about confirming reinstatement.
