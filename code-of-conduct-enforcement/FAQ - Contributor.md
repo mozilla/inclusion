@@ -12,6 +12,8 @@ A CPG onboarding typically covers these basic topics:
 2. Reinstatement outline.  This is very dependent on the individual, and the violation - but is used to describe what a return to participation at Mozilla will look like.  There may be some permenant bans from certain channels, tools or events - but primarily this is about confirming reinstatement.
 3. Welcome Back.  Setting this person up for success.
 
+A CPG onboarding takes between 1/2 an hour to an hour, so we always set aside 1 hour. We use Vidyo, Google Hangouts, Skype, Telegram, or IRC depending on the preference and technology access of the individual.
+
 ### In some portions of the Consequence Ladder, there's this requirement: " no interaction with people involved, including unsoclicited interaction with those enforcing the guidelines", what does that mean exactly?
 
 Because the CPG outlines guidance for expected and not-tolerated behaviors in our community, chances are a violation has interfered with someone's ability to feel safe, empowered, and included in an interaction with you.  This also includes those who witness negative interactions.
