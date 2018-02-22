@@ -5,7 +5,7 @@
 *Recommendations can be issued by any role in the RASCI, but final decision is according to vote among the Accountable (A).  See ‘Roles’ below for detailed explanation of each, and who for this conflict is associated.*
 
 **R**esponsible -  Coordinator   
-**A**ccountable - CCRM , CPGP
+**A**ccountable - CCRM , CPGP 
 **S**upportive  -  Legal, HR, Working Group  
 **C**onsulted - Stakeholder(s)  
 **I**nvolved  -  Individuals not covered by above roles.(+ Reporters)
