@@ -9,6 +9,7 @@ None to date
 The purpose of post-event questions about the CPG/CoC are about understanding:
 
 a) How a CoC/CPG at events can make those events feel safer, and attendees more empowered to speak, give feedback and fully participate.
+
 b) How well processes for enforcement of the CoC/CPG are established, and result in effective resolutions to reports.
 
 ## survey
