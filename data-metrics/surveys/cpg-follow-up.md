@@ -3,7 +3,7 @@
 These questions are intended as standard for all event follow-up where the Community Participation Guidelines are present.
 
 ##### Known issues/Findings:
-Non to date
+None to date
 
 ##### Research behind these questions:
 The purpose of post-event questions about the CPG/CoC are about understanding:
