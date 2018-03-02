@@ -2,10 +2,10 @@
 
 These questions are intended as standard for all event follow-up where the Community Participation Guidelines are present.
 
-##### Known issues/Findings:
+#### Known issues/Findings:
 None to date
 
-##### Research behind these questions:
+#### Research behind these questions:
 The purpose of post-event questions about the CPG/CoC are about understanding:
 
 a) How a CoC/CPG at events can make those events feel safer, and attendees more empowered to speak, give feedback and fully participate.
