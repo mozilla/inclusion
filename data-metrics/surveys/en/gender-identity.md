@@ -6,8 +6,8 @@ Thus the standard is currently to provide multiple choice, and an optino to self
 
 To which gender identity to you most identify? (multiple choice)
 
--[] Male
--[] Female
--[] Other ___________
+- [ ]  Male
+- [ ]  Female
+- [ ]  Other ___________
 
 
