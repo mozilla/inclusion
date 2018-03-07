@@ -16,7 +16,7 @@ Our organization does not discriminate on the basis of gender identity or expres
 
 What is your gender?
 
--[ ] Female
+- [ ] Female
 
 -[ ] Male
 
