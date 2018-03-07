@@ -7,8 +7,8 @@ That said, it's important to always ensure you know why you are asking for sensi
 
 Always include Mozilla's privacy policy.
 
-* If you are asking for **gender identity**, how will you use that data?
-* If you are asking whether someone is **transgender** how do you intend to benefit that demographic with your findings?  
+* If you are asking for **gender identity**, how will you use that data? If you don't know, don't ask.
+* If you are asking whether someone is **transgender** how do you intend to benefit that demographic with your findings?  If you dont know, don't ask.
 * If you are asking gender identity, you cannot query people under 19.  Add checkbox to ensure people are over 19.
 * If you are collecting personally identifying information like name, email, Github ID AND gender identity information, do you have in place:
   * Legal approval
