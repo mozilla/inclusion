@@ -14,17 +14,13 @@ This standard is based on the following research:
 
 Our organization does not discriminate on the basis of gender identity or expression. In order to track the effectiveness of our inclusive efforts and ensure we consider the needs of all our [cotributor/employees], please consider the following optional question:
 
-What is your gender?
+What is your gender? (multiple-choice)
 
 - [ ] Female
-
--[ ] Male
-
--[ ] Non-binary/ third gender
-
--[ ] Prefer to self-describe _________________
-
--[ ] Prefer not to say
+- [ ] Male
+- [ ] Non-binary/ third gender
+- [ ] Prefer to self-describe _________________
+- [ ] Prefer not to say
 
 Transgender is an umbrella term that refers to people whose gender identity, expression or behavior is different from those typically associated with their assigned sex at birth. Other identities considered to fall under this umbrella can include non-binary, gender fluid, and genderqueer – as well as many more.
 
@@ -33,6 +29,6 @@ Transgender is an umbrella term that refers to people whose gender identity, exp
 
 Do you identify as transgender?
 
-Yes              
-No               
-Prefer not to say
+- [ ] Yes              
+- [ ] No               
+- [ ] Prefer not to say
