@@ -1,5 +1,5 @@
 ## Gender Pronouns
-Taken from various sources including [LGBTW Resource Center](http://uwm.edu/lgbtrc/support/gender-pronouns/), [Outreachy](https://www.outreachy.org/) application, [Gender Neutral Pronoun blog](https://genderneutralpronoun.wordpress.com/tag/ze-and-zir/), and 
+Taken from various sources including [LGBTW Resource Center](http://uwm.edu/lgbtrc/support/gender-pronouns/), [Outreachy](https://www.outreachy.org/) application, [Gender Neutral Pronoun blog](https://genderneutralpronoun.wordpress.com/tag/ze-and-zir/).
 
 - [ ] she/her/hers
 - [ ] he/him/his
