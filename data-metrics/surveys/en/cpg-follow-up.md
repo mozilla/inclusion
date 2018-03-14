@@ -14,7 +14,7 @@ b) How well processes for enforcement of the CoC/CPG are established, and result
 ## Survey Questions
 
 ### Community Participation Guidelines
-The following questions are regarding the Community Participation Guidelines ("CPG")
+The following questions are regarding the Community Participation Guidelines ("CPG"), and will help us understand how to improve the experience of all participants in future.
 
 1. On registration, and during the event were you made aware of the CPG and how to report violations?
   * Yes
