@@ -2,6 +2,16 @@
 Taken from various sources including [LGBTW Resource Center](http://uwm.edu/lgbtrc/support/gender-pronouns/), [Outreachy](https://www.outreachy.org/) application, [Gender Neutral Pronoun blog](https://genderneutralpronoun.wordpress.com/tag/ze-and-zir/).
 
 ---
+
+## Short Version
+
+What are your preferred gender pronouns?  (single choice)
+
+- [ ] she/her
+- [ ] he/him
+- [ ] they/their
+- [ ] Other _____________
+
 ## Long Version
 
 What are your preferred gender pronouns?  (single choice)
@@ -18,12 +28,3 @@ What are your preferred gender pronouns?  (single choice)
 - [ ] xe/xem/xyrs
 - [ ] zie/zim/zirs
 
-
-## Short Version
-
-What are your preferred gender pronouns?  (single choice)
-
-- [ ] she/her
-- [ ] he/him
-- [ ] they/their
-- [ ] Other _____________
