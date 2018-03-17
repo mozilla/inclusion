@@ -5,7 +5,7 @@ Taken from various sources including [LGBTW Resource Center](http://uwm.edu/lgbt
 
 ## Short Version
 
-What are your preferred gender pronouns?  (single choice)
+What are your gender pronouns?  (single choice)
 
 - [ ] she/her
 - [ ] he/him
@@ -14,7 +14,7 @@ What are your preferred gender pronouns?  (single choice)
 
 ## Long Version
 
-What are your preferred gender pronouns?  (single choice)
+What are your  gender pronouns?  (single choice)
 
 - [ ] she/her/hers
 - [ ] he/him/his
