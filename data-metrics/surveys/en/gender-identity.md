@@ -12,7 +12,7 @@ This standard is based on the following research:
 ### Gender Identity
 *Please ensure you have folllowed best practices [for asking questions about diverse demographic data](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/best-practices-diverse-data.md).*
 
-Our organization does not discriminate on the basis of gender identity or expression. In order to track the effectiveness of our inclusive efforts and ensure we consider the needs of all our [cotributor/employees], please consider the following optional question:
+Our organization does not discriminate on the basis of gender identity or expression. In order to track the effectiveness of our inclusive efforts and ensure we consider the needs of all our contributor/employee, please consider the following optional question:
 
 What is your gender? (multiple-choice)
 
