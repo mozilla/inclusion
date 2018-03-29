@@ -2,7 +2,7 @@
 
 Gender identity and expression is a positive, core part, of being human and experiencing wellbeing and fulfilment. We shall be discussing about the various aspects that needs to be taken care in order to design community guidelines.
 
-## What exactly is Gender identity<a name='what-exactly-is-gender-identity'></a>
+## What exactly is Gender identity
 As per Wikipedia:
 > Gender identity is one's personal experience of one's own gender.
 
