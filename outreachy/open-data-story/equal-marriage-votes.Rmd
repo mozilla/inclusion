@@ -1,0 +1,143 @@
+---
+title: "Australian Votes to Equal Marriage"
+author: "Martha Michelly G Menezes"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(ggplot2)
+library(highcharter)
+library(dplyr)
+```
+
+This is a brief open data story in order to contribute to the Diversity team of Mozilla. The story is about all eligible Australians on the Commonwealth Electoral Roll and their views on whether or not the law should be changed to allow same-sex couples to marry. Here we will talk about how were the votes from different point of views like gender, age groups and states.
+
+The story was made with R, by using R Markdown and I got the data from Kaggle and they got it from the official ABS website: https://marriagesurvey.abs.gov.au/. 
+
+### Insights
+
+```{r message=FALSE, }
+electorate_results = read.csv("electorate-results.csv")
+participant_information = read_csv("participant-information.csv")
+state_results = read_csv("state-results.csv")
+```
+
+I can start by having a look on data to give some insights. Bellow we have a visulization that shows the number of people who were eligible to vote and compare the ones which actually went voting. We can see these numbers for each state and for all Australia as well.
+
+```{r }
+insight_states = state_results %>%
+  mutate(number_votes = response_clear + response_unclear, type = "responding") %>%
+  select(state, number_votes, type) %>%
+  rbind(state_results %>% mutate(number_votes = nonresponding, type = "nonresponding") %>% select(state, number_votes, type))
+
+insight_states = insight_states %>% rbind(
+  insight_states %>% select(number_votes, type) %>% group_by(type) %>% summarise(number_votes = sum(number_votes)) %>% mutate(state = "All Australia"))
+
+hchart(insight_states, "column", hcaes(x = state, y = number_votes, group = type)) %>%
+    hc_yAxis(title = list(text = "State")) %>%
+      hc_xAxis(title = list(text = "Number of votes"))%>%
+  hc_title(text = "States and participation")
+```
+
+By doing the same comparasion let's see the numbers of each type of of vote from the people who voted. The *unclear* votes are not visible due the larger number of other votes, you can click on *yes* and *no* types to see only values related to *unclear*. By observing this visualization it's possible to see that people most of people in country voted *yes*. 
+
+```{r }
+
+insight_states = state_results %>%
+  mutate(number_votes = response_unclear, type = "unclear") %>%
+  select(state, number_votes, type) %>%
+  rbind(state_results %>% mutate(number_votes = yes, type = "yes") %>% select(state, number_votes, type)) %>%
+  rbind(state_results %>% mutate(number_votes = no, type = "no") %>% select(state, number_votes, type))
+
+insight_states = insight_states %>% rbind(
+  insight_states %>% select(number_votes, type) %>% group_by(type) %>% summarise(number_votes = sum(number_votes)) %>% mutate(state = "All Australia"))
+
+hchart(insight_states, "column", hcaes(x = state, y = number_votes, group = type)) %>%
+    hc_yAxis(title = list(text = "State")) %>%
+      hc_xAxis(title = list(text = "Number of votes"))%>%
+  hc_title(text = "States and types of votes")
+
+```
+
+### How about genders and age groups?
+
+This is the relation of men and women who was eligible to vote in all Australia. They represent almost the same percentage of population, but women have a higher number.
+
+```{r }
+
+insight_gender = participant_information %>% 
+  group_by(gender) %>%
+  summarise(number_people = sum(eligible))
+
+hchart(insight_gender, "column", hcaes(x = gender, y = number_people, color = gender)) %>%
+    hc_yAxis(title = list(text = "N eligible")) %>%
+      hc_xAxis(title = list(text = "Gender"))%>%
+  hc_title(text = "Eligibility of genders")
+
+```
+
+
+That is the relation of men and women who voted in all Australia. There were more voting women than men, however there were more men who didn't vote than women, even though they are in smaller number in eligible people.
+
+```{r }
+insight_gender = participant_information %>% 
+  select(eligible, participant, gender) %>%
+  mutate(number_votes = participant, type = "participant") %>%
+  select(gender, number_votes, type) %>%
+  rbind(participant_information %>% mutate(number_votes = eligible - participant, type = "nonparticipant") %>% select(gender, number_votes, type)) %>%
+  group_by(gender, type) %>%
+  summarise(number_votes = sum(number_votes))
+
+hchart(insight_gender, "heatmap", hcaes(x = gender, y = type, value = number_votes))  %>%
+    hc_yAxis(title = list(text = "Participance")) %>%
+      hc_xAxis(title = list(text = "Gender"))%>%
+     hc_title(text = "Participation of genders")
+```
+
+Bellow we have a more complete visualization about elegible people, age and gender. The vertical axis represents the number of eligible people in each age group. The color differs women from men and the size of each point represents the actual percentage of who actually were voting.
+
+We can still see that most of elegible people are women excepted for the *20-24* and *25-29* groups of age. The group that was more participative is the one which has women with age from 70 to 74. We can also see that there is a big gender gap in the *85+* group related to number of eligeble people and that the *18-19* group has fewer people (maybe because it involves a smaller age range interval).
+
+```{r }
+insight_gender = participant_information %>% 
+  select(eligible, age, participant, gender) %>%
+  group_by(gender, age) %>%
+  summarise(eligible = sum(eligible), participant = sum(participant)) %>%
+  mutate(percentage_voting = participant/eligible)
+
+hchart(insight_gender, "scatter", hcaes(x = age, y = eligible, size = percentage_voting * 100,  group = gender)) %>%
+    hc_yAxis(title = list(text = "N eligible")) %>%
+      hc_xAxis(title = list(text = "Age"))%>%
+  hc_title(text = "Eligibility and participation of genders and ages")
+```
+
+### How about each electorate?
+
+Now this is a brief view of each city in Australia and the ralation between number of *yes* and *no* votes. Yellow points are cities were *yes* votes won, purple points are cities were *no* votes won.
+
+In most of cities *yes* won. The city with major diffence where *no* won was Blaxland, located in New South Wales state, and the number of votes for *no* where almost three times the number for *yes*.
+
+```{r}
+insight_votes = electorate_results %>%
+  mutate(win = yes > no, states = state)
+
+x <- c("City: ", "State: ", "Yes win: ", "Yes: ", "No: ")
+    y <- sprintf("{point.%s}", c("electoral_division", "states", "win", "yes","no"))
+    tltip <- tooltip_table(x, y)
+
+highchart() %>%
+hc_add_series(insight_votes,
+                    showInLegend = FALSE, 
+                    "scatter", 
+                    hcaes(x = no, y = yes, color = win)) %>%
+  hc_yAxis(title = list(text = "N yes")) %>%
+      hc_xAxis(title = list(text = "N no")) %>%
+  hc_tooltip(table = TRUE, headerFormat = "", pointFormat = tltip) %>%
+  hc_title(text = "Cities were 'yes' won")
+
+  
+```
+
+This Story is also on https://rpubs.com/michellymenezes. 
