@@ -10,4 +10,3 @@ If you're interested in contributing to Mozilla projects that have more tasks av
 
 [We track tasks using Zenhub](https://app.zenhub.com/workspace/o/mozilla/diversity/boards?repos=77927559).
 
-For Outreachy applicants - please note that the application committee only looks at contributions you make before you submit your application. You are of course welcome to continue contributing with us after you apply, but please know that it won't be considered towards your candidacy for this round of Outreachy.
