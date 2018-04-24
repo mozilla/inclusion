@@ -16,8 +16,8 @@ Our organization does not discriminate on the basis of gender identity or expres
 
 What is your gender? (multiple-choice)
 
-- [ ] Female
-- [ ] Male
+- [ ] Man
+- [ ] Woman
 - [ ] Non-binary/ third gender
 - [ ] Prefer to self-describe _________________
 - [ ] Prefer not to say
