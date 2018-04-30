@@ -9,7 +9,7 @@ What are your gender pronouns?  (single choice)
 
 - [ ] she/her
 - [ ] he/him
-- [ ] they/their
+- [ ] they/them
 - [ ] Other _____________
 
 ## Long Version
