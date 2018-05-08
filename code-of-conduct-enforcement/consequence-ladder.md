@@ -29,7 +29,7 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Mandatory CPG onboarding process 
 
 ### Level 5: Extended Ban (Tool access revoked)
-* Request for (public/private) Appology (base, by case and if reporter is not anonymous)
+* Request for (public/private) Appology (base, by case)
 * 2-3 months imposed break.
 * All accounts deactivated, or blocked during this time.
 * Required - no interaction with people involved, including unsoclicited interaction with those enforcing the guidelines.
