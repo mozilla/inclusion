@@ -35,11 +35,15 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
 * * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
 * All community leadership roles suspended. (onboarding/reapplication required outside of this processs)
-* Mandatory CPG onboarding process 
+* No attendance at Mozilla events during ban period.
+* Not allowed to enter Mozilla Spaces during ban period.
+* Mandatory CPG onboarding process
 
 ### Level 6: Permanent Ban
 * Permanent ban
 * Required - no interaction with other ppl involved
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
 * All accounts deactivated permanently. 
+* No attendance at Mozilla events going forward.
+* Not allowed to enter Mozilla Spaces permanently.
 * All community leadership roles permanently suspended
