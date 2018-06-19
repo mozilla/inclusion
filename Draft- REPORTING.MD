@@ -22,7 +22,28 @@ This is true for everyone.  This is true for staff, project leaders, maintainers
 
 **If you believe someone is in physical danger, consult with a staff member, of volunteer you trust to call your local emergency number.**
 
+### I someone gives you a report.
 
+* Do not invite them to withdraw the incident report
+* Do not ask for their advice on how to immediately respond to the incident
+* Do not offer them input into the long-term response to the incident
+* Do not promise any particular response
+
+Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+
+* Current date and time
+* Date and time of the incident
+* Location of incident
+* Description of the incident
+* (If in person) information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number.
+* (if online) information of the reported person:  name, nickname, communication/chat forum.
+* Additional circumstances surrounding the incident
+* Reporter’s name and contact information. If the reporter wants to make an anonymous report, allow them to do so. 
+* Other people involved in or witnesses to the incident and their contact information or description
+* Do not prompt the reporter for suggestions of how to handle the incident, but record their suggested responses if they offer them
+
+
+* Email [inclusion@mozilla.com](mailto:inclusion@mozilla.com)
 
 ## How to Give a Report
 
