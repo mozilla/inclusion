@@ -9,7 +9,7 @@ This document is intended as an interface to existing documents, processes and p
 
 ## When To Report
 
-Always report incidents of:
+Always report all incidents of:
 
 * Violence and Threats of Violence
 * Personal Attacks
@@ -17,7 +17,7 @@ Always report incidents of:
 * Unwelcome Sexual Attention or Physical Contact
 * Influencing Unacceptable Behavior
 
-This is true for everyone.  This is true for staff, project leaders, maintainers and community members - no exception.   This just as true if someone says 'just joking'.
+Please see the [CPG](https://www.mozilla.org/en-US/about/governance/policies/participation/) for full details of each listed above. 
 
 ## How to Take a Report
 
