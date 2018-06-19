@@ -1,0 +1,42 @@
+
+[From the Community Participation Guidlines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
+"*The heart of Mozilla is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Mozilla Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.*"
+
+This document is intended as an interface to existing documents, processes and people responsible for ensuring Mozilla's communities are healthy, and inclusive for all.  
+
+## When To Report
+
+Always report incidents of:
+
+* Violence and Threats of Violence
+* Personal Attacks
+* Derogatory Language
+* Unwelcome Sexual Attention or Physical Contact
+* Influencing Unacceptable Behavior
+
+This is true for everyone.  This is true for staff, project leaders, maintainers and community members - no exception.   This is true even if someone says 'just joking'.
+
+
+## How to Take a Report
+
+** If you believe someone is in physical danger, consult with a staff member, of volunteer you trust to call your local emergency number. **
+
+
+
+## How to Give a Report
+
+## Confidentiality
+
+All reports will be kept confidential. When we discuss incidents with people who are reported, we will anonymize details as much as we can to protect reporter privacy.
+
+However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
+
+In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+
+______
+### License
+
+This document includes content forked from the [PyCon Code of Conduct Revision 2f4d980 o](https://us.pycon.org/2018/about/code-of-conduct/) which is licensed under a Creative Commons Attribution 3.0 Unported License.
+
+REPORTING.MD is licensed under a Creative [Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
