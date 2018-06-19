@@ -20,7 +20,7 @@ This is true for everyone.  This is true for staff, project leaders, maintainers
 
 ## How to Take a Report
 
-** If you believe someone is in physical danger, consult with a staff member, of volunteer you trust to call your local emergency number. **
+**If you believe someone is in physical danger, consult with a staff member, of volunteer you trust to call your local emergency number.**
 
 
 
