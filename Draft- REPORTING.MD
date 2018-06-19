@@ -17,8 +17,7 @@ Always report incidents of:
 * Unwelcome Sexual Attention or Physical Contact
 * Influencing Unacceptable Behavior
 
-This is true for everyone.  This is true for staff, project leaders, maintainers and community members - no exception.   This is true even if someone says 'just joking'.
-
+This is true for everyone.  This is true for staff, project leaders, maintainers and community members - no exception.   This just as true if someone says 'just joking'.
 
 ## How to Take a Report
 
@@ -30,7 +29,7 @@ This is true for everyone.  This is true for staff, project leaders, maintainers
 * Do not invite them to withdraw the incident report
 * Do not promise any particular response
 
-Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+*Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:*
 
 * Current date and time
 * Date and time of the incident
