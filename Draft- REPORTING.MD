@@ -24,11 +24,10 @@ This is true for everyone.  This is true for staff, project leaders, maintainers
 
 **If you believe someone is in physical danger, consult with a staff member, of volunteer you trust to call your local emergency number.**
 
-### I someone gives you a report.
+### If someone reports to you...
 
+* Do not question, or judge their experience
 * Do not invite them to withdraw the incident report
-* Do not ask for their advice on how to immediately respond to the incident
-* Do not offer them input into the long-term response to the incident
 * Do not promise any particular response
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
@@ -37,15 +36,20 @@ Try to get as much of the incident in written form by the reporter. If you canno
 * Date and time of the incident
 * Location of incident
 * Description of the incident
-* (If in person) information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number.
+* (If in person) information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information.
 * (if online) information of the reported person:  name, nickname, communication/chat forum.
 * Additional circumstances surrounding the incident
 * Reporter’s name and contact information. If the reporter wants to make an anonymous report, allow them to do so. 
 * Other people involved in or witnesses to the incident and their contact information or description
 * Do not prompt the reporter for suggestions of how to handle the incident, but record their suggested responses if they offer them
 
-
 * Email [inclusion@mozilla.com](mailto:inclusion@mozilla.com)
+
+NOTE: email alias is temporary as we setup a system for response.   The alias currently goes to Larissa Shapiro and Tyler 
+
+Diversity & Inclusion Leader, Larissa Shapiro, and our Director of Organizational Development, Tyler Haugen. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
+
+Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you. 
 
 ## How to Give a Report
 
