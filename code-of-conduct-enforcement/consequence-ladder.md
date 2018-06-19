@@ -25,6 +25,7 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Request to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
 * Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
+* * This includes in-person events and spaces
 * Suggestions for ‘out of office’ ways of staying private.
 * Mandatory CPG onboarding process 
 
@@ -34,6 +35,7 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * All accounts deactivated, or blocked during this time.
 * Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
 * * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
+* * This includes in-person events and spaces
 * All community leadership roles suspended. (onboarding/reapplication required outside of this processs)
 * No attendance at Mozilla events during ban period.
 * Not allowed to enter Mozilla Spaces during ban period.
@@ -43,7 +45,9 @@ Recommendations indicate a violation of CPG through a single incident or series 
 ### Level 6: Permanent Ban
 * Permanent ban
 * Required - no interaction with other ppl involved
-  * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
+  * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media 
+  (Twitter, Facebook). This includes 'following/liking/retweeting'.
+  * * This includes in-person events and spaces
 * All accounts deactivated permanently. 
 * No attendance at Mozilla events going forward.
 * Mozilla NDA revoked permanently.
