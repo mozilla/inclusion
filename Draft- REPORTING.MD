@@ -43,15 +43,15 @@ Try to get as much of the incident in written form by the reporter. If you canno
 * Other people involved in or witnesses to the incident and their contact information or description
 * Do not prompt the reporter for suggestions of how to handle the incident, but record their suggested responses if they offer them
 
-* Email [inclusion@mozilla.com](mailto:inclusion@mozilla.com)
+**Send Rports to:** [inclusion@mozilla.com](mailto:inclusion@mozilla.com)
 
-NOTE: email alias is temporary as we setup a system for response.   The alias currently goes to Larissa Shapiro and Tyler 
-
-Diversity & Inclusion Leader, Larissa Shapiro, and our Director of Organizational Development, Tyler Haugen. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
+**NOTE:** email alias is temporary as we setup a system for response.   The alias currently goes Diversity & Inclusion Leader, Larissa Shapiro, and our Director of Organizational Development, Tyler Haugen. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
 
 Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you. 
 
 ## How to Give a Report
+
+If you have experienced or witnessed a violation of the Community Participation Guidelines, reach out to a trusted staff or volunteer and share this document with them.
 
 ## Confidentiality
 
