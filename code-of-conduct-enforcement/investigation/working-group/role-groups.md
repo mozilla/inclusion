@@ -25,7 +25,7 @@ Person or group who has filed a complaint against the CPG.  In a single communit
 
 
 #### Legal Investigator (Legal)
-A role invoked when a report to either Community Managers or CPG enforcement violates our conflict of interest, or anti-bribery policies, or is in violation of the law (e.g. embezzlement, fraud, threats, destruction of property, misuse of IP.
+A role invoked when a report to either Community Managers or CPG enforcement violates our conflict of interest, or anti-bribery policies, or is in violation of the law (e.g. embezzlement, fraud, threats, destruction of property, misuse of IP).
 
 #### HR Investigator (HR)
 A role invoked when a report to a Community Manager or CPG Enforcement involves a staff member, or where legal investigation warrants HR support.
