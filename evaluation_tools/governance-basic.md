@@ -11,7 +11,7 @@ More advanced evaluation tactics can be found here(TBD)
 
 ### Code of Conduct
 
--[ ] We have a Code of Conduct ("CoC").
+- [ ] We have a Code of Conduct ("CoC").
 -[ ] Our Code of Conduct is visible from our main project page and/or repository.
 -[ ] It is clear how to report violations of our CoC.  For example, a [REPORTING.MD](https://github.com/mozilla/repo-templates/blob/master/templates/REPORTING.md) file.
 -[ ] We understand how to effectively enforce our CoC.
