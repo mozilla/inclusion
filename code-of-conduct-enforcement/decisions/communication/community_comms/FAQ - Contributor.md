@@ -24,6 +24,6 @@ This also includes those enforcing the CPG, which include (but not limited to) s
 
 ### How is Onboarding content created?
 
-The decision making group, usually consisting of project area leads, as well as CPG enforcement leads are consulted on the specifics of the onboarding content.
+The decision making group, usually consisting of project area leads, as well as CPG enforcement leads are consulted on the specifics of the onboarding content.  It is personalized to the individual, while leveraging best practices learned in previous onboarding.  
 
 
