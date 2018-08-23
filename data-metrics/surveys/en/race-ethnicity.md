@@ -1,10 +1,10 @@
-# Race
+# Race. (WORK IN PROGRESS)
 
-
-This standard is based on the following research:
+This standard is based on the following research and reading:
 
 * Ford Foundation Diversity Questions
 * Open Demographics [Open Pull Request](https://github.com/drnikki/open-demographics/issues/14) from @brihijoshi
+* [Diffference between ethnic group and tribe](https://www.differencebetween.com/difference-between-ethnic-group-and-vs-tribe/)
 ----
 
 ### Gender Identity
@@ -24,7 +24,8 @@ Our organization does not discriminate on the basis of gender identity or expres
 [] Unknown or prefer not to state
 
 
-Do you identify yourself as a member of a minority group in the area you live?
+
+Do you identify yourself as a member of a minority racial, ethnicity or tribal group in the area you live?
  [] Yes
  [] No
  [] Yes (Please specify): _________________
