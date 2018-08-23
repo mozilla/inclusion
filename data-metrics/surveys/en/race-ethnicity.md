@@ -12,7 +12,7 @@ This standard is based on the following research:
 
 Our organization does not discriminate on the basis of gender identity or expression. In order to track the effectiveness of our inclusive efforts and ensure we consider the needs of all our contributor/employee, please consider the following optional question:
 
-[] Multiracial or Multi Ethnic
+-[ ] Multiracial or Multi Ethnic
 [] Arab or Arab American
 [] Asian or Asian American
 [] Black or African American
