@@ -14,13 +14,14 @@ This standard is based on the following research and reading:
 Our organization does not discriminate on the basis of race, or ethnicity. In order to track the effectiveness of our inclusive efforts, please consider the following optional question:
 
 - [ ] Multiracial or Multi Ethnic
-- [ ] Arab or Arab decent
-- [ ] Asian or Asian decent
-- [ ] Black or African decent
+- [ ] Middle East or Middle Eastern Decent
+- [ ] East Asian or East Asian Decent
+- [ ] SE Asian or SE Asian Decent
+- [ ] Black or African Decent
 - [ ] Latin American
 - [ ] Indigenous Person
 - [ ] Native Hawaiian or Other Pacific Islander
-- [ ] White
+- [ ] European or European Decent
 - [ ] Other________________
 - [ ]  Unknown or prefer not to state
 
