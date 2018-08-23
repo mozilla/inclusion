@@ -1,4 +1,5 @@
-# Race. (WORK IN PROGRESS)
+# Race/ethnicity
+####(WORK IN PROGRESS)
 
 This standard is based on the following research and reading:
 
