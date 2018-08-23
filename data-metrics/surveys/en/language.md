@@ -1,7 +1,7 @@
 # Language
 ### Work in Progress
 
-What is your primary language for communication? (multiple-choice) ?
+What is your first language for communication? (multiple-choice) ?
 
 - [ ] English
 - [ ] Mandarin
@@ -15,3 +15,4 @@ What is your primary language for communication? (multiple-choice) ?
 - [ ] Chinese
 - [ ] French
 - [ ] Spanish 
+- [ ] Other _________________
