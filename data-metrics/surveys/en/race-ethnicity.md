@@ -18,7 +18,7 @@ Our organization does not discriminate on the basis of race, or ethnicity. In or
 - [ ] Asian or Asian American
 - [ ] Black or African American
 - [ ] Latin American
-- [ ]  Native American, American Indian, or Alaska Native
+- [ ] Aboriginal, Native American, American Indian, or Alaska Native
 - [ ] Native Hawaiian or Other Pacific Islander
 - [ ] White
 - [ ] Other________________
