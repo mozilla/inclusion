@@ -11,7 +11,7 @@ This standard is based on the following research and reading:
 ### Race/Ethnicty - Listed
 *Please ensure you have folllowed best practices [for asking questions about diverse demographic data](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/best-practices-diverse-data.md).*
 
-Our organization does not discriminate on the basis of race, or ethnicity. In order to track the effectiveness of our inclusive efforts, please consider the following optional question:
+Our organization does not discriminate on the basis of race or ethnicity. In order to track the effectiveness of our inclusive efforts, please consider the following optional question:
 
 - [ ] Multiracial or Multi Ethnic
 - [ ] Middle East or Middle Eastern Decent
@@ -26,6 +26,7 @@ Our organization does not discriminate on the basis of race, or ethnicity. In or
 - [ ]  Unknown or prefer not to state
 
 ### Race/Ethnicty - Self Identified
+This is option may not provide useful information but can be used to research how people identify
 
 Do you identify yourself as a member of a minority racial, ethnicity or tribal group in the area you live?
 - [ ] Yes
