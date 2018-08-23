@@ -11,19 +11,22 @@ This standard is based on the following research and reading:
 ### Race/Ethnicty - Listed
 *Please ensure you have folllowed best practices [for asking questions about diverse demographic data](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/best-practices-diverse-data.md).*
 
-Our organization does not discriminate on the basis of race or ethnicity. In order to track the effectiveness of our inclusive efforts, please consider the following optional question:
+Our organization does not discriminate on the basis of race or ethnicity.  We recognize that race is a local and socially constructed category. However, it can help understand patterns In order to track the effectiveness of our inclusive efforts, 
+
+Please consider the following optional question:
 
 - [ ] Multiracial or Multi Ethnic
-- [ ] Middle East or Middle Eastern Decent
-- [ ] East Asian or East Asian Decent
-- [ ] SE Asian or SE Asian Decent
-- [ ] Black or African Decent
+- [ ] Middle East or Middle Eastern Descent
+- [ ] East Asian or East Asian Descent
+- [ ] SE Asian or SE Asian Descent
+- [ ] Black or African Descent
 - [ ] Latin American
 - [ ] Indigenous Person
 - [ ] Native Hawaiian or Other Pacific Islander
-- [ ] European or European Decent
+- [ ] European or European Descent
 - [ ] Other________________
 - [ ]  Unknown or prefer not to state
+
 
 ### Race/Ethnicty - Self Identified
 This is option may not provide useful information but can be used to research how people identify
