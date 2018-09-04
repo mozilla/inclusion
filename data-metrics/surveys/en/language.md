@@ -1,18 +1,7 @@
 # Language
-### Work in Progress
+Where possible we will strive to correspond in languages other than English. 
 
-What is your first language for communication? (multiple-choice) ?
+If English is not your first language, please indicate your preferred language of correspondance:
 
-- [ ] English
-- [ ] Mandarin
-- [ ] Italian
-- [ ] Catonese
-- [ ] Greek
-- [ ] Vietnamese
-- [ ] Hindi
-- [ ] Tagalog
-- [ ] Arabic
-- [ ] Chinese
-- [ ] French
-- [ ] Spanish 
-- [ ] Other _________________
+_______________________________
+
