@@ -39,5 +39,5 @@ This section describes some simple ways your project and community design can be
 
 ### Documentation
 
-- [ ] We taken one or more steps to improve the [accessiblity](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of your documentation/website?  
+- [ ] We have taken one or more steps to improve the [accessiblity](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of our documentation/website?  
 
