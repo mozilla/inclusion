@@ -10,7 +10,8 @@ This checklist provides open source projects with basics for evaluating the incl
 - [ ] We have a Code of Conduct ("CoC").
 - [ ] Our Code of Conduct is visible from our main project page and/or repository root and linked from all communication channels.
 - [ ] It is clearly stated in the COC how to report behaviors at that are illegal or make individuals/groups feel unsafe, unwelcome or uncomfortable .
-- [ ] It is clear where WHO that report will go to.
+- [ ] It is clear to whom that report will go.  This means names of people, and their individual email addresses.
+- [ ] There is an option to reach out to only one of those people.
 - [ ] We have a process for responding to reports.
 
 ## Leadership
