@@ -8,7 +8,7 @@ This checklist provides open source projects with basics for evaluating the incl
 ### Code of Conduct
 A Code ofConduct sends an  signal to your project & community that you invested in creating a safe and empowered community for everyone, regardless of background, family status, gender, gender-identity or expression, marital status, sex, sexual orientation, native language, age, ability, race/ethnicity, national origin, socioenconimic status, religion, geographic location or any other dimension of diversity.
 
-It's not enough to have a Code of Conduct. [Creating transparent, and effective processes for enforcement is key](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415). 
+It's not enough to have a Code of Conduct. [Creating transparent, and effective processes for enforcement is key](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415).  The following questions represent the most basic evaluation of CoCs.
 
 
 - [ ] We have a Code of Conduct ("CoC").
@@ -16,7 +16,7 @@ It's not enough to have a Code of Conduct. [Creating transparent, and effective 
 - [ ] It is clearly stated in the COC how to report behaviors at that are illegal or make individuals/groups feel unsafe, unwelcome or uncomfortable .
 - [ ] It is clear to whom that report will go.  This means names of people, and their individual email addresses.
 - [ ] There is an option to reach out to only one of those people.
-- [ ] We have a process for responding to reports.
+- [ ] We have a process for responding-to reports that ensures reporter, reported and all others impacted are regularly updated.
 
 ## Leadership
 These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability for the empowerment of others. 
