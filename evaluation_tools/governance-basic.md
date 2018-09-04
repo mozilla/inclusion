@@ -1,6 +1,5 @@
-# Open Source Governance Basic Checklist
+# Open Source Inclusion Basic Checklist
 
-#### Work in Progress
 
 This checklist provides open source projects with basics for evaluating the inclusive design in key areas.  This checklist is intended to provide insight, and education and is not intended to be critical of progress.
 
