@@ -8,7 +8,8 @@ This checklist provides open source projects with basics for evaluating the incl
 ### Code of Conduct
 A Code ofConduct sends an  signal to your project & community that you invested in creating a safe and empowered community for everyone, regardless of background, family status, gender, gender-identity or expression, marital status, sex, sexual orientation, native language, age, ability, race/ethnicity, national origin, socioenconimic status, religion, geographic location or any other dimension of diversity.
 
-It's not enough to have a Code of Conduct. [Creating transparent, and effective processes for enforcement is key](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415).  The following questions represent the most basic evaluation of CoCs.
+It's not enough to have a Code of Conduct. [Creating transparent, and effective processes for enforcement is key](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415).  The following questions represent the moste basic requirements for establishing a CoC.  
+*An advanced checklist will be available in the future.
 
 
 - [ ] We have a Code of Conduct ("CoC").
