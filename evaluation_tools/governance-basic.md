@@ -29,6 +29,6 @@ These are based on [CHAOSS working group criteria for inclusive leadership](http
 
 ### Language & Documentation
 
-- [ ] We recognize that the the primary language of the project may not be the first language of all contributors, and where possible provide transcripts of meetings.
+- [ ] We recognize that the the primary language of the project may not be the first language of all contributors, and where possible provide transcripts of meetings and other key project correspondence are easily found.
 - [ ] We taken one or more steps to improve the [accessiblity](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of your documentation/website?  
 
