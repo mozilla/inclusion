@@ -6,6 +6,10 @@ This checklist provides open source projects with basics for evaluating the incl
 ## Governance
 
 ### Code of Conduct
+A Code ofConduct sends an  signal to your project & community that you invested in creating a safe and empowered community for everyone, regardless of background, family status, gender, gender-identity or expression, marital status, sex, sexual orientation, native language, age, ability, race/ethnicity, national origin, socioenconimic status, religion, geographic location or any other dimension of diversity.
+
+It's not enough to have a Code of Conduct. [Creating transparent, and effective processes for enforcement is key](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415). 
+
 
 - [ ] We have a Code of Conduct ("CoC").
 - [ ] Our Code of Conduct is visible from our main project page and/or repository root and linked from all communication channels.
@@ -15,7 +19,7 @@ This checklist provides open source projects with basics for evaluating the incl
 - [ ] We have a process for responding to reports.
 
 ## Leadership
-These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability. 
+These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability for the empowerment of others. 
 
 - [ ] Our project leadership is designed with cycles of feedback and review to avoid gatekeeping and to encourage inclusive behavior.
 - [ ] Responsiblities of leadership are clearly documented.
