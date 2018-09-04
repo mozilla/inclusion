@@ -25,7 +25,7 @@ These are based on [CHAOSS working group criteria for inclusive leadership](http
 ## Project & Community Design
 
 - [ ] We have a welcoming and open channel for community particpiation.
-- [ ] We avoid jargon that can alienate, and make underrepresented people feel excluded.
+- [ ] We strive to avoid [jargon and other non-inclusive language](https://open.buffer.com/inclusive-language-tech/) that can alienate, and make underrepresented people feel excluded.
 
 ### Language & Documentation
 
