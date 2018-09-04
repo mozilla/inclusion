@@ -15,20 +15,24 @@ This checklist provides open source projects with basics for evaluating the incl
 - [ ] We have a process for responding to reports.
 
 ## Leadership
-These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/assets/leadership-principles.md).
+These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability. 
 
 - [ ] Our project leadership is designed with cycles of feedback and review to avoid gatekeeping and to encourage inclusive behavior.
 - [ ] Responsiblities of leadership are clearly documented.
 - [ ] Our project leadership 'leads by example' - expected behaviors outlined in our CoC.
 - [ ] We recognize leadership equally, including non-technical leadership.
+- [ ] We recognize 'empowering others' as a core attribute of leadership, and discourage self promotion.
 
 ## Project & Community Design
+This section describes some simple ways your project and community design can be more inclusive.  
 
+### Communication & Language
 - [ ] We have a welcoming and open channel for community particpiation.
 - [ ] We strive to avoid [jargon and other non-inclusive language](https://open.buffer.com/inclusive-language-tech/) that can alienate, and make underrepresented people feel excluded.
 
-### Language & Documentation
-
 - [ ] We recognize that the the primary language of the project may not be the first language of all contributors, and where possible provide transcripts of meetings and other key project correspondence are easily found.
+
+### Documentation
+
 - [ ] We taken one or more steps to improve the [accessiblity](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of your documentation/website?  
 
