@@ -1,6 +1,6 @@
 # Access Groups
 
-This document outlines the various levels of acccess, respondiblity and opportunity.
+This document outlines the various levels of acccess, respondiblity and opportunity granted to volunteers.  This file is currently only a draft-proposal to help drive decision making related to opportunity and individuals with CPG violations on file.   
 
 
 ## Group 1 - Basic
