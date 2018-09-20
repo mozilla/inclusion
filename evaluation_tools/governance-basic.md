@@ -34,10 +34,15 @@ This section describes some simple ways your project and community design can be
 ### Communication & Language
 - [ ] We have a welcoming and open channel for community particpiation.
 - [ ] We strive to avoid [jargon and other non-inclusive language](https://open.buffer.com/inclusive-language-tech/) that can alienate, and make underrepresented people feel excluded.
+- [ ] We strive to encourage and recognizes the quietest voices, and not just those with the most confidence, and volume.
 
 - [ ] We recognize that the the primary language of the project may not be the first language of all contributors, and where possible provide transcripts of meetings and other key project correspondence are easily found.
 
 ### Documentation
 
 - [ ] We have taken one or more steps to improve the [accessiblity](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of our documentation/website?  
+
+### Tasks
+- [ ] We provide non-technical tasks for first-time contributors to learn about, and participate in our project.
+- [ ] We label tasks that are for contributors, to help save time, and frustration for volunteer and maintainer.
 
