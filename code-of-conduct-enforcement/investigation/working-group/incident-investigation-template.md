@@ -2,6 +2,8 @@
 # INCIDENT INVESTIGATION TEMPLATE #
 ### [Short Title Describing Complaint]
 
+#### Reporter:
+#### Reported:
 
 #### Report Type:
 *Describe the report (ie: harassment, fraud, slander, abuse)*
