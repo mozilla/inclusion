@@ -1,12 +1,12 @@
 
 
 <img src="assets/image/mozilla-logo-bw-rgb.png" alt="mozi://a" width="300"/>
-Code of Conduct Evaluation
-===================
+
+# Code of Conduct Evaluation
 
 
 
-About this resource   -DRAFT
+About this resource 
 ===================
 
 Many open source projects now use a code of conduct ("CoC") to define
