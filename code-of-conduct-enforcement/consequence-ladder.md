@@ -42,19 +42,18 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Mozilla NDA revoked during ban period.
 * Mandatory CPG onboarding process
 
-### Level 6:  All Mozilla, Specified Area(s) Ban
+### Level 6:  Mozilla, Specified Area(s) Ban
 * Permanent ban in specified areas of the project
 * Required - no interaction with other ppl involved
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media 
   (Twitter, Facebook). This includes 'following/liking/retweeting'.
   * * This includes in-person events and spaces
 * Specified accounts deactivated permanently. 
-* No attendance at Mozilla events, or events where people involved (in any capacity) are in attendance
+* No attendance at Mozilla spaces, or events, or events where people involved (in any capacity) are in attendance
 * Mozilla NDA revoked permanently.
-* Not allowed to enter Mozilla Spaces permanently.
 * All community leadership roles permanently suspended
 
-### Level 7: All Mozilla, Permanent Ban
+### Level 7: All Mozilla, All Areas Permanent Ban
 * Permanent ban
 * Required - no interaction with other ppl involved
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media 
