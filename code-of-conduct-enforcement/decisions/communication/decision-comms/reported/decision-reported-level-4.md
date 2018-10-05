@@ -12,7 +12,7 @@ The decision was made to [issue/enforce] a [# of weeks] mandatory ban from parti
     * Role or activity is deactivated/disabled/
     * Role or activity is deactivated/disabled/
 
-This is a private warning/series of actions.  Should new reports emerge of additional CPG violations additional consequences according to the consequence ladder of escalation could apply.
+This is a private warning/series of actions.  Should new reports emerge of additional CPG violations additional consequences according to the consequence ladder of escalation will apply.
 
 After [end date of suspension]if you would like to reinstate your [roles or activity] you will be required to attend a Community Participation Guidelines onboarding.
 
