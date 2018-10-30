@@ -46,23 +46,14 @@ have other warning signs that indicate a lack of enforcement.
 There are statements will appear dismissive to people who have
 experienced harassment and abuse:
 
--   “We’re all adults here” — age of participants doesn’t determine
-    > whether something causes harm
--   “Be excellent to each other” — this is a cultural reference that not
-    > all people will know, and it’s loosely defined
--   “Be nice” — also vague, and puts a higher value on overt politeness
-    > over whether harm is caused
--   “Don’t be a dick” or “don’t be an ass” — slang that’s open to
-    > interpretation
+-   “We’re all adults here” — age of participants doesn’t determine whether something causes harm
+-   “Be excellent to each other” — this is a cultural reference that not all people will know, and it’s loosely defined
+-   “Be nice” — also vague, and puts a higher value on overt politeness over whether harm is caused
+-   “Don’t be a dick” or “don’t be an ass” — slang that’s open to interpretation
 
-About intentions — telling community members to assume good or best
-intentions is not an effective way to resolve code of conduct issues.
-Whether someone intends to cause harm is separate from the impact.
+A word about intentions. Telling community members to assume good or best intentions is not an effective way to resolve code of conduct issues. Whether someone intends to cause harm is separate from the impact.
 
-The code of conduct should also not put the burden of response on the
-person who has been harmed. Guidelines that tell people to try to
-resolve the situation on their own before seeking assistance from a code
-of conduct responder are inappropriate.
+The code of conduct should also not put the burden of response on the person who has been harmed. Guidelines that tell people to try to resolve the situation on their own before seeking assistance from a code of conduct responder are inappropriate.
 
 Be cautious of terms like:
 

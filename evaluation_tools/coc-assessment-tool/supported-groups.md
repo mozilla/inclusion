@@ -1,6 +1,6 @@
 Also called [protected groups](https://en.wikipedia.org/wiki/Protected_group), supported groups is intended as a reflection of who has been excluded or marginalized in our communities, and industry.
 
-Providing a list of supported groups **signals an accountability for the experiences of all people; all participants in a project, or at an event.**   For those who have regularly been excluded, or hurt by omission this visibity is crucial, and much needed invitation.
+Providing a list of supported groups **signals an accountability for the experiences of all people; all participants in a project, or at an event.**   For those who have regularly been excluded, or hurt by omission this visibility is crucial, and much needed invitation.
 
 Below is a positive example of an inclusive statement:
 
@@ -18,7 +18,7 @@ At a minimum, the code of conduct should name:
 -   Disability (sometimes phrased as “regardless of ability”)
 -   Religion
 
-#### Encouraged
+## Encouraged
 
 -   Age
 -   Experience level or job role
@@ -28,21 +28,18 @@ At a minimum, the code of conduct should name:
 -   Physical appearance, body size
 -   Socio-economic status
 
-#### Discouraged
+## Discouraged
 
 -   Personality traits
 -   Other kinds of beliefs
--   Lifestyle and personal behaviors
+-   Lifestyle and personal behaviours
+-   Political party **
 
-#### Red Flags
+## Red Flags
 
 - Anything that doesn’t include specific categories of people.  For example,
 “we’re all colleagues” or “treat others as though they were a family
 member or loved one”.
 - Mention of political parties or beliefs. a project may aim to take an “apolitical” stance.
 
-Some policies also include political parties or beliefs in this section. This is not
-effective because there are many kinds of political values, from social
-and economic inclusion, to beliefs about legal and bureaucratic
-processes, to ones that are about excluding or harming some groups of
-people. These varied political alignments do not have equal impacts.
+** Some policies may also include political parties or beliefs in this section. This is not effective because there are many kinds of political values, from social and economic inclusion, to beliefs about legal and bureaucratic processes, to ones that are about excluding or harming some groups of people. These varied political alignments do not have equal impacts.

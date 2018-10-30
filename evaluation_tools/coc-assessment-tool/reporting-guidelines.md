@@ -1,19 +1,20 @@
 
-Reporting guidelines are an additional piece of information that will
-help the community understand how the code of conduct is enforced.
-Common elements:
+Reporting guidelines are critical not only to the procedural enforcement of a CoC, but sends a signal about whether or not the project is  serious about the document they've put together. **Trust is built here**.
 
--   Information that will be needed to make a report
--   Further contact details or communication channels for the response team
--   Timelines: when will the reporter have a initial response? How long is the process of resolving an issue expected to take?
--   Steps to the response process
--   Possible resolutions
--   Conflict of interest policy
+## Required
 
-For example...
+-   Minimum information that will be required to make a report
+-   Contact information. If an alias is used, the names of those receiving alias email should be listed, with their individual email addresses.
+
+## Encouraged
+
+Reported, and reporters are often nervous, anxious or afraid, providing them with a simple understanding for next steps is another step in trust building.
 
 > **What happens after you file a report?**
 >
 > You will receive an email from the DSF Code of Conduct Working Group
 > acknowledging receipt immediately. We promise to acknowledge receipt
 > within 24 hours (and will aim for much quicker than that).[^17]
+
+
+* NOTE: Assessment of the reporting resolution process is complex and is out of scope for this document/resource.
