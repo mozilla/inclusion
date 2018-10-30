@@ -9,7 +9,7 @@ Simple access to a resource processes, and entry-level community leadership role
 
 ### Entry-level community leadership roles
 Mozilla Rep Application, NDA Mozillian
-=
+
 ## Group 2 - Intermediate 
 Access to resources and assigned responsibility with  visibility.
 
