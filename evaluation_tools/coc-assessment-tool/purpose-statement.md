@@ -1,4 +1,4 @@
-Usually, this is an introductory sentence or section, and should frame the use of a
+The Purpose Statement, is usually an introductory sentence or section. It should frame the use of a
 Code of Conduct within the community’s values and goals.
 
 Below, is an example of a positive purpose statement:
@@ -12,11 +12,10 @@ Below, is an example of a positive purpose statement:
 > project and our community a harassment-free experience for
 > everyone[^2]
 
-#### Encouraged
+## Encouraged
 
-The statement should **relate the policy to the general goals of the
-project itself**, or the collaboration of working on it: education,
-community-building, a shared platform for diverse perspectives, etc.
+This statement should **relate the policy to the general goals of the
+project itself**, or the collaboration experience building that project.  
 
 > Our goal with !!Con is to bring the NYC programming community together
 > for a conference about the excitement, joy, and surprise of
@@ -25,12 +24,13 @@ community-building, a shared platform for diverse perspectives, etc.
 > We value the participation of each member of the community and want
 > all attendees to have an enjoyable and fulfilling experience.[^3]
 
-#### Red Flags
+## Red Flags
 
--   Any statement that **prioritizes the comfort of existing contributors over the inclusion of people with less status or access**.
+-   Any statement that **prioritises the comfort of existing contributors over the inclusion of people with less status or access**.
 -   Statements that put technical outcomes before participatory ones.
+- Statements derived from religious or other belief systems, even if positive in intention.
 
-Here is a historical example from the Linux Kernal - Code of Conflict.[^4]
+Here is a historical example from the Linux Kernal - Code of Conflict putting technical outcomes before participatory ones.[^4]
 
 > The Linux kernel development effort is a very personal process
 > compared to “traditional” ways of developing software. Your code and
