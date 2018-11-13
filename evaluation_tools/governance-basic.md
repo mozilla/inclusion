@@ -20,7 +20,7 @@ It's not enough to have a Code of Conduct. [Creating transparent, and effective 
 - [ ] We have a process for responding-to reports that ensures reporter, reported and all others impacted are regularly updated.
 
 ## Leadership
-These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability for the empowerment of others. 
+These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus_areas/leadership/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability for the empowerment of others. 
 
 - [ ] Our project leadership is designed with cycles of feedback and review to avoid gatekeeping and to encourage inclusive behavior.
 - [ ] Responsiblities of leadership are clearly documented.
