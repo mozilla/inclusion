@@ -28,6 +28,8 @@ These are based on [CHAOSS working group criteria for inclusive leadership](http
 - [ ] We recognize leadership equally, including non-technical leadership.
 - [ ] We recognize 'empowering others' as a core attribute of leadership, and discourage self promotion.
 
+![il](https://mozilla.github.io/maintainer-cohort/img/il.png)
+
 ## Project & Community Design
 This section describes some simple ways your project and community design can be more inclusive.  
 
