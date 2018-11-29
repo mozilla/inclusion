@@ -1,6 +1,4 @@
-A Code of Conduct, should outline those Behaviors with the potential to exclude, marginalise, harm or otherwise deter participation of diverse groups and people.  Articulating these Behaviors serves a number of outcomes:
-
-1. Notifies participants of unacceptable Behaviors within the context of of social norms.
+1. Notifies participants of unacceptable Behaviors within the context of social norms.
 2. Signals sincerity and intention to address Behaviors that harm, exclude and otherwise make participation difficult (if not impossible) for many.
 3. Validation what incidents are reportable, should there be self-doubt on behalf of a reporter.
 
@@ -14,20 +12,18 @@ The [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/a
 > * **Disruptive Behavior**  Sustained disruption of events, forums, or meetings, including talks and presentations, will not be tolerated.
 > * **Influencing Disruptive Behavior**  We will treat influencing or leading such activities the same way we treat the activities themselves, and thus the same consequences apply.
 
- Other examples of unacceptable behavior by participants can include:
+ Other examples of unacceptable behavior by participants may include:
 
--   The use of sexualized language or imagery and unwelcome sexual attention or advances
--   Trolling, insulting/derogatory comments, and personal or political attacks
--   Public or private harassment
+-   The use of sexualized language or imagery and unwelcome sexual attention or advances.
+-   Trolling, insulting/derogatory comments, and personal or political attacks.
+-   Public or private harassment.
 -   Publishing others’ private information, such as a physical or electronic address, without explicit permission
--   Other conduct which could reasonably be considered inappropriate in a professional setting[^7]
+-   Other conduct which could reasonably be considered inappropriate in a professional setting[^7].
 
 ## Encouraged
 
--   The words “harassment”, “abuse”, and “professional” or
-    > “professionalism” should be supported by details or definitions.
--   Prohibited or harassing behaviors reflect situations that Behaviors
-    > occurred in the past in open source projects and community spaces.
+-   The words “harassment”, “abuse”, and “professional” or “professionalism” should be supported by details or definitions.
+-   Prohibited or harassing behaviors reflect situations that Behaviors occurred in the past in open source projects and community spaces.
 
 **NOTE** Many policies prohibit sexual language, imagery, and Behavior as
 unprofessional, irrelevant, and harassing. For some communities (from
@@ -38,13 +34,10 @@ and abusive uses.**
 
 ## Discouraged
 
--   The code of conduct should not punish anyone for not being polite
-    > enough or communicating in an unpleasant tone without considering
-    > the circumstances.
--   The way people communicate can be judged by its impact and how it
-    > reflects the power relationships of the people involved.
+-   The code of conduct should not punish anyone for not being polite enough or communicating in an unpleasant tone without considering the circumstances.
+-   The way people communicate can be judged by its impact and how it reflects the power relationships of the people involved.
 
 ## Red flags
 
 -   People who have experienced abuse or harassment should not be prohibited from telling other people about it. Community members should not have to go against the code of conduct to take action.
--   “Reverse racism” or “reverse sexism” as an unacceptable Behavior. These kinds of discrimination depend on an imbalance of power, so “racism against white people” isn’t a meaningful concern. Some policies[^8] may state that claims of “**reverse -isms**” will not be acted on and this is fine, especially if there’s a link to a definition so community members can understand the difference.
+-   “Reverse racism” or “reverse sexism” as an unacceptable Behavior. These kinds of discrimination depend on an imbalance of power, so “racism against white people” isn’t a meaningful concern. Some policies[^8] may state that claims of “reverse -isms” will not be acted on and this is fine, especially if there’s a link to a definition so community members can understand the difference.

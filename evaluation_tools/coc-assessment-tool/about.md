@@ -1,4 +1,4 @@
-Many open source projects now use a code of conduct ("CoC") to define their standards for community behavior. That said, a majority fail to meet even the most basic requirements to e effective, trusted and [real](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) for the lived expereinces of people in those communities, and attending those events.
+Many open source projects now use a code of conduct ("CoC") to define their standards for community behavior. That said, a majority fail to meet even the most basic requirements to be effective, trusted and [real](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) for the lived experiences of people in those communities, and attending those events.
 
 **This resource is intended as a mechanism for both generating, and reviewing a Code of Conduct with three specific goals**:
 

@@ -1,6 +1,6 @@
 To fully benefit from the potential of this resource we recommend the following steps:
 
-1. Read, **in detail**, the Code of Conduct from top to bottom and capture initial reactions. how did it make you feel? Do you see everyone in your community or project represented? Capture your intuitive response, as well as factual ones.
+1. Read, **in detail**, the Code of Conduct from top to bottom and capture initial reactions. How did it make you feel? Do you see everyone in your community or project represented? Capture your intuitive response, as well as factual ones.
 2. Read this document in its entirety. Did anything jump out about the Code of Conduct you just read based on the criteria here?
 3. Using this [marking grid](), step through this document and do a detailed analysis.
 

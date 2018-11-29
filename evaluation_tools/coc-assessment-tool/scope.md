@@ -22,10 +22,8 @@ community governance.
 
 ### Encouraged
 
-The minimum scope of the policy should be all normal activities of
-project contribution or leadership, including contexts outside the
-community where a person is representing the project as a whole. This
-may include:
+Policy scope should include normal activities of
+project contribution or leadership, including contexts outside the community where a person is representing the project as a whole. This may include:
 
 -   commit messages
 -   bug trackers
@@ -33,25 +31,15 @@ may include:
 -   Email
 -   in-person events
 -   social media
+-   events
 
-The statement of scope should be explicit about these spaces and
-activities. Other considerations:
+Also encouraged, is the following:
 
--   Make it clear that leaders are held to the same standard as other contributors
--   Define the expectations for employee and volunteer participants, as well as sponsors or other partner organizations.
+-   CoC states that leaders/maintainers are held to the same standard as other contributors.  
+-   CoC clearly defines all who interact with the project, including employee, and volunteer participants, as well as sponsors or other partner organizations.
 
-A statement of scope may mention other contexts where a person’s
-behavior affects participation in the project. Some people who wish to
-cause harm will try acting just outside the written scope of the code of
-conduct, in order to prevent being removed from the community. These are
-more difficult situations to respond to, so any extension of scope needs
-to be paired with a plan for how it will be monitored and addressed.
-It’s reasonable that a code of conduct enforcement team could take
-behavior outside the official scope of the CoC into account when
-deciding how to respond.
+
 
 ### Red flags
 
-Any policy that explicitly leaves out obvious areas of participation,
-like exempting a particular IRC channel or email list, or that defines a
-less-stringent standard for some contributors. i.e. This code of conduct does not apply to the core team mailing list.
+- Any policy that explicitly leaves out obvious areas of participation, like exempting a particular IRC channel or email list, or that defines a less-stringent standard for some contributors. i.e. This code of conduct does not apply to the core team mailing list.

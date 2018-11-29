@@ -33,13 +33,14 @@ At a minimum, the code of conduct should name:
 -   Personality traits
 -   Other kinds of beliefs
 -   Lifestyle and personal behaviours
--   Political party **
+-   Political party (also see note below)
 
 ## Red Flags
 
+- The minimum requirement of supported groups is not met.
 - Anything that doesn’t include specific categories of people.  For example,
 “we’re all colleagues” or “treat others as though they were a family
 member or loved one”.
 - Mention of political parties or beliefs. a project may aim to take an “apolitical” stance.
 
-** Some policies may also include political parties or beliefs in this section. This is not effective because there are many kinds of political values, from social and economic inclusion, to beliefs about legal and bureaucratic processes, to ones that are about excluding or harming some groups of people. These varied political alignments do not have equal impacts.
+**NOTE:** Some policies may also include political parties or beliefs in this section. This is not effective because there are many kinds of political values, from social and economic inclusion, to beliefs about legal and bureaucratic processes, to ones that are about excluding or harming some groups of people. These varied political alignments do not have equal impacts.
