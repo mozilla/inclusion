@@ -15,20 +15,20 @@ It's not enough to have a Code of Conduct. [Creating transparent, and effective 
 - [ ] We have a Code of Conduct ("CoC").
 - [ ] Our Code of Conduct is visible from our main project page and/or repository root and linked from all communication channels.
 - [ ] It is clearly stated in the COC how to report behaviors at that are illegal or make individuals/groups feel unsafe, unwelcome or uncomfortable .
-- [ ] It is clear to whom that report will go.  This means names of people, and their individual email addresses.
-- [ ] There is an option to reach out to only one of those people.
+- [ ] It is clear to whom that report will go
 - [ ] We have a process for responding-to reports that ensures reporter, reported and all others impacted are regularly updated.
 
 ## Leadership
-These are based on [CHAOSS working group criteria for inclusive leadership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus_areas/leadership/assets/leadership-principles.md).  Leadership is central to project and community culture, and thus require intentional design, and accountability for the empowerment of others. 
+
+![il](https://mozilla.github.io/maintainer-cohort/img/il.png)
+
+Leadership is central to project and community culture, and thus require intentional design, and accountability for the empowerment of others. 
 
 - [ ] Our project leadership is designed with cycles of feedback and review to avoid gatekeeping and to encourage inclusive behavior.
 - [ ] Responsiblities of leadership are clearly documented.
-- [ ] Our project leadership 'leads by example' - expected behaviors outlined in our CoC.
 - [ ] We recognize leadership equally, including non-technical leadership.
 - [ ] We recognize 'empowering others' as a core attribute of leadership, and discourage self promotion.
-
-![il](https://mozilla.github.io/maintainer-cohort/img/il.png)
+- [ ] We reach out to people we know would be great leaders, inclusing underrepresented people who might not recognize their potential,.
 
 ## Project & Community Design
 This section describes some simple ways your project and community design can be more inclusive.  
@@ -37,8 +37,8 @@ This section describes some simple ways your project and community design can be
 - [ ] We have a welcoming and open channel for community particpiation.
 - [ ] We strive to avoid [jargon and other non-inclusive language](https://open.buffer.com/inclusive-language-tech/) that can alienate, and make underrepresented people feel excluded.
 - [ ] We strive to encourage and recognizes the quietest voices, and not just those with the most confidence, and volume.
-
-- [ ] We recognize that the the primary language of the project may not be the first language of all contributors, and where possible provide transcripts of meetings and other key project correspondence are easily found.
+- [ ] We recognize that the the [primary language of the project may not be the first language of all contributors](https://docs.openstack.org/doc-contrib-guide/non-native-english-speakers.html), and where possible provide transcripts of meetings and other key project correspondence are easily found.
+- [ ] We have provided a way for everyone to share their pronouns, and respect those in our conversations and communication.
 
 ### Documentation
 
@@ -46,5 +46,5 @@ This section describes some simple ways your project and community design can be
 
 ### Tasks
 - [ ] We provide non-technical tasks for first-time contributors to learn about, and participate in our project.
-- [ ] We label tasks that are for contributors, to help save time, and frustration for volunteer and maintainer.
+
 
