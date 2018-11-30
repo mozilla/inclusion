@@ -28,7 +28,7 @@ Leadership is central to project and community culture, and thus require intenti
 - [ ] Responsiblities of leadership are clearly documented.
 - [ ] We recognize leadership equally, including non-technical leadership.
 - [ ] We recognize 'empowering others' as a core attribute of leadership, and discourage self promotion.
-- [ ] We reach out to people we know would be great leaders, inclusing underrepresented people who might not recognize their potential,.
+- [ ] We reach out to people we know would be great leaders, including underrepresented people who might not recognize their potential,.
 
 ## Project & Community Design
 This section describes some simple ways your project and community design can be more inclusive.  
