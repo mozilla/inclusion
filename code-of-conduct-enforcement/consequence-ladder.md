@@ -8,9 +8,9 @@ Recomendations do not indicate violation of CPG
 ### Level 1: Simple Warning Issued
 * A private, written warning from project leadership, with **clarity of violation, consequences of continued behavior**.
 
-### Level 2: Warning + Mediation
+### Level 2: Warning
 Recommendations indicate a violation of CPG through a single incident or series of actions that create toxicity in the community. Mediation provides opportunity to provide perspective, gain empathy, and steps for resetting behavior.
-* Mediation Session
+* Evaluation of NDA access.
 * Boundaries for further action set.  (next time x happens)
 
 ### Level 3: Warning + Mandatory Cooling Off Period (Tool access retained)
