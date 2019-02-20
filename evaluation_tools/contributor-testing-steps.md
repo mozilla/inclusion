@@ -1,5 +1,8 @@
 # Contributor Testing Steps
-This is a small script that we adapt each time, to each project to allow us to do 'user testing' aka 'contributor testing' on a project.  Participants must not be familiar with the project, code or community, although they should be confident with the technology.
+This is a small script that we adapt (on a per project bassis) as a type of'user testing' aka 'contributor testing'.  Participants must not be familiar with the project, code or community, although they should be confident with the technology.
+
+Steps should allow for someone reasonably confident with the technology to do a scan of project assets, people and tinker with the environment in 1.5 hours or less. It's OK if the environment build is not completed, the intention is to see how well a project is setup to accomodate those without luxery of hours of time to figure things out.
+
 
 ## Actions (5 minutes)
 
