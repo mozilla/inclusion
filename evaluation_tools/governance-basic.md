@@ -1,4 +1,4 @@
-# Open Source Inclusion Basic Checklist
+# Open Source Inclusion Basic Checklist for Projects
 
 
 This checklist provides open source projects with basics for evaluating the inclusive design in key areas.  This checklist is intended to provide insight, and education.
