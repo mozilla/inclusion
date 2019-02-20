@@ -10,8 +10,9 @@ This checklist is intended to provide insight, and education.  It does not provi
 ### Code of Conduct
 A Code of Conduct sends an  signal that a project & community is invested in creating a safe and empowered spaces for everyone, regardless of background, family status, gender, gender-identity or expression, marital status, sex, sexual orientation, native language, age, ability, race/ethnicity, national origin, socioenconimic status, religion, geographic location or any other dimension of diversity.
 
-- [ ] I can locate a Code of Conduct ("CoC").
-- [ ] The Code of Conduct is visible from our main project page and/or repository root and linked from all communication channels.
+- [ ] I can locate a Code of Conduct.
+- [ ] That Code of Conduct is in the root of the repository, and not buried in another file content (like README, or CONTRIBUTING)
+- [ ] The Code of Conduct is visible from the main project page and/or repository root and linked from all communication channels.
 - [ ] It is clearly stated in the COC how to report behaviors at that are illegal or make individuals/groups feel unsafe, unwelcome or uncomfortable.
 - [ ] It is clear to whom that report will go.
 - [ ] It is clear what to expect if I report.
@@ -34,6 +35,11 @@ Leadership is central to project and community culture, and thus requires intent
 - [ ] It's clear how to step into, or achieve a leadership role.  
 
 Here is an example of an inclusive leadership page ([Firefox Developer Tools](https://github.com/firefox-devtools/debugger.html/blob/master/docs/community-team.md)).
+
+## Community Diversity
+- [ ] The last 20 commits appear* by someone other than male.
+
+* yes... many people use male-avatars, and names to hide their gender-identity.  This is just intended to provide early insights into demographics of a community.
 
 ## Project & Community Design
 This section describes some simple ways your project and community design can be more inclusive.  
