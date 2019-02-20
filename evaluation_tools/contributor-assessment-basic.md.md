@@ -46,6 +46,8 @@ Here is an example of an inclusive leadership page ([Firefox Developer Tools](ht
 This section describes some simple ways your project and community design can be more inclusive.  
 
 ### Communication & Language
+Communication channels is meant to include issue queues, pull request comments, discussion forums, an chat channels like Slack.
+
 - [ ] There is a welcoming and open channel for community particpiation.
 - [ ] Project channels are friendly, and not overly assertive (i.e. people flexing tech knolwedge and shouting (or shaming) each other down).
 - [ ] Participation in channels, includes and activeliy seeks to include voices of people who are not the dominant demographic.
