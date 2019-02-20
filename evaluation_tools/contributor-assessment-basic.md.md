@@ -38,7 +38,7 @@ Leadership is central to project and community culture, and thus requires intent
 Here is an example of an inclusive leadership page ([Firefox Developer Tools](https://github.com/firefox-devtools/debugger.html/blob/master/docs/community-team.md)).
 
 ## Community Diversity
-- [ ] Of the last 100 commits at least 3 appear to be* by someone other than male.
+- [ ] Of the last 100 commits by non-staff contributors at least 3 appear to be* by someone other than male.
 
 * yes... many people use male-avatars, and names to hide their gender-identity.  This is just intended to provide early insights into demographics of a community.  Given only 3% of open source contributors are women, it's likely that you will see mostly male contributions, but having zero women is a flag.  Ideally the number is far higher.
 
