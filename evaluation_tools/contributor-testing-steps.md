@@ -3,7 +3,7 @@ This is a small script that we adapt each time, to each project to allow us to d
 
 ## Actions (5 minutes)
 
-1. Open Your Browser
+1. Open Your browser, and navigate to the project main page (provide this link).
 2. Learn about this tool, project, initiative (5 minutes)
 
 ## Questions
