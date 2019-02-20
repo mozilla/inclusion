@@ -1,8 +1,9 @@
 # Open Source Inclusion Basic Checklist for Contributors
 
 
-This checklist provides contributors with basics for evaluating the inclusive design in key areas.  
-This checklist is intended to provide insight, and education.  It is not intended to provide assurances, rather to support informed decision making about potential, or extended involvement.
+This checklist provides contributors with a basic set of criteria to evaluate an open source project for participation. This is intended to be light-weight, and only includes that which you can evaluate in a short amount of time.
+
+This checklist is intended to provide insight, and education.  It does not provide assurances, but is rather intended to support informed decision making about potential, or extended involvement in an open source project.
 
 ## Governance
 
