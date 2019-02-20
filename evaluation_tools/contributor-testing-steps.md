@@ -1,4 +1,5 @@
 # Contributor Testing Steps
+This is a small script that we adapt each time, to each project to allow us to do 'user testing' aka 'contributor testing' on a project.  Participants must not be familiar with the project, code or community, although they should be confident with the technology.
 
 ## Actions (5 minutes)
 
