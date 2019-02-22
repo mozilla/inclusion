@@ -1,7 +1,7 @@
 # Contributor Testing Steps
-This is a small script that we adapt (on a per project bassis) as a type of'user testing' aka 'contributor testing'.  Participants must not be familiar with the project, code or community, although they should be confident with the technology.
+This is a small script that we adapt (on a per project basis) as a type of'user testing' aka 'contributor testing'.  Participants must not be familiar with the project, code or community, although they should be confident with the technology.
 
-Steps should allow for someone reasonably confident with the technology to do a scan of project assets, people and tinker with the environment in 1.5 hours or less. It's OK if the environment build is not completed, the intention is to see how well a project is setup to accomodate those without luxery of hours of time to figure things out.
+Steps should allow for someone reasonably confident with the technology to do a scan of project assets, people and tinker with the environment in 1.5 hours or less. It's OK if the environment build is not completed, the intention is to see how well a project is setup to accommodate those without luxury of hours of time to figure things out.
 
 
 ## Actions (5 minutes)
@@ -35,7 +35,7 @@ Even if you didn't finish...
 
 1. How did that go?
 2. What did you observec about the community channel?
-3. If you found information on the community leaders/staff how did that information make you feel more or less likely to conribute?
+3. If you found information on the community leaders/staff how did that information make you feel more or less likely to contribute?
 4. Based on the contributing document, do you feel about contributing?  What would you attempt first?
 
 ## Environment (Remaining Time)
