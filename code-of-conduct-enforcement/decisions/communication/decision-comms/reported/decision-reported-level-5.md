@@ -1,3 +1,5 @@
+### Temporary Ban
+
 Dear [name],
 
 I’m writing today in order to address your participation in the Mozilla community.
