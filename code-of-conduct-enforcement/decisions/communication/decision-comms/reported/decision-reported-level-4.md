@@ -2,8 +2,8 @@ Dear [ Individual, or list of Individuals]
 
 This email is to let you know that, in the last few weeks,  [org name] received [x number of] reports that you violated  Mozilla’s Community Participation Guidelines (“CPG”). These alleged violations took place in/at [location].  The actions that are alleged to have violated the CPG are:
 
-    * Violation 1  - [CPG exact wording]
-    * Violation 2  - [CPG exact wording]
+    * Violation 1  - [CPG exact wording i.e. Disruptive Behavior]
+    * Violation 2  - [CPG exact wording] i.e. Derogatory Language related to gender ]
 
 These reports were reviewed, and an investigation conducted by [working group or names].  [org name] determined that a material portion of [violations] were substantiated to our satisfaction following [org name] investigative process.  
 
