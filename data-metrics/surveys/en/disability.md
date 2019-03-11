@@ -5,7 +5,7 @@ Do you identify as a person with a disability? For the purpose of this survey we
 - [ ] Yes
 - [ ] No
 
-What parts of your life does your disability affect?
+If you answered yes, what parts of your life does your disability affect?
 
 - [ ] My disability affects focus, memory, and attention.
 - [ ] My disability affects my emotions and how I perceive the emotions of others.
