@@ -47,6 +47,7 @@ Provide examples of the past.
 2. language (proactive, supportive)
 3. categories
 4. Actions
+5. Working group involvement (maybe it's WG that does this part with User)
 
 ## Implementation Strategies
 
