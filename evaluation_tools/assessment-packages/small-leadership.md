@@ -24,6 +24,12 @@ words used in this document, and what they mean
 2. The Metrics User will report back findings to the wg
 3. The Metrics User will abide by all guidelines, and have signed the ethics guideline prior to starting.
 4. Abide by CHAOSS COC
+5. X amount of time.
+
+## CHAOSS WG Commitment
+1. Time
+2. Recommendations generation./support
+3. etc
 
 ### Data & Privacy Policies
 * Link to our ethics guideline
