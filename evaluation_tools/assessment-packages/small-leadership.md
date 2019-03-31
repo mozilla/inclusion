@@ -9,8 +9,8 @@ It is a requirement, that all projects who use this resource, sign/verbally comm
 ## Terminology
 words used in this document, and what they mean
 
-maintainer/community/project = Metrics User
-underrepsented identity, you want to build more inlusive experience for  = Diversity Experience
+* maintainer/community/project = Metrics User
+* underrepsented identity, you want to build more inlusive experience for  = Diversity Experience
 
 ## Goals of this bundle
 
