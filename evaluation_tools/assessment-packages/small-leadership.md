@@ -22,9 +22,12 @@ underrepsented identity, you want to build more inlusive experience for  = Diver
 
 1. All people with the Diversity Experience you looking to support, who contribute to the assessment,  are compensated in some way (Swag, money, etc).
 2. The Metrics User will report back findings to the wg
-3. The Metrics User will abide by all guidelines, and have signed the ettiquette guideline prior to starting.
+3. The Metrics User will abide by all guidelines, and have signed the ethics guideline prior to starting.
+4. Abide by CHAOSS COC
 
 ### Data & Privacy Policies
+* Link to our ethics guideline
+* Link to our CoC
 
 ### Qualtiative
 1. Have min 3 people, from outside your project, preferrably with the Diversity Experience with minimum half hour of time to dedicate.  [best practices how to do this respectfully link]
