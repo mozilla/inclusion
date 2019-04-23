@@ -3,7 +3,7 @@ Building on this from [Drupal Community](https://www.drupal.org/conflict-resolut
 The notion of a 'ladder' is that each time we take an action (ban, warning) the individual is made aware of future consequence.  That's not to say that someone cannot jump right to a perminant ban, or that we can't jump 'two' steps in the ladder.  Rather, it's a way of communicating escalation.  
 
 ### Level 0: No Action
-Recomendations do not indicate violation of CPG
+Recomendations do not indicate violation of Conflict Resolution Policy (CPG)
 
 ### Level 1: Simple Warning Issued
 * A private, written warning from project leadership, with **clarity of violation, consequences of continued behavior**.
