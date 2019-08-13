@@ -14,7 +14,7 @@ It's not enough to have a Code of Conduct. [Creating transparent, and effective 
 
 - [ ] We have a Code of Conduct ("CoC").
 - [ ] Our Code of Conduct is visible from our main project page and/or repository root and linked from all communication channels.
-- [ ] It is clearly stated in the COC how to report behaviors at that are illegal or make individuals/groups feel unsafe, unwelcome or uncomfortable.
+- [ ] It is clearly stated in the COC how to report behaviors that are illegal or make individuals/groups feel unsafe, unwelcome or uncomfortable.
 - [ ] It is clear to whom that report will go.
 - [ ] We have a process for responding-to reports that ensures reporter, reported and all others impacted are regularly updated.
 
@@ -26,7 +26,7 @@ Leadership is central to project and community culture, and thus require intenti
 **NOTE:** The term 'leader' doesn't always resonate, if that's the case for your project, replace with 'roles of influence'.
 
 - [ ] Our project leadership is designed with cycles of feedback and review to avoid gatekeeping and to encourage inclusive behavior.
-- [ ] Responsiblities of leadership are clearly documented.
+- [ ] Responsibilities of leadership are clearly documented.
 - [ ] We recognize leadership equally, including non-technical leadership.
 - [ ] We recognize 'empowering others' as a core attribute of leadership, and discourage self promotion.
 - [ ] We reach out to people we know would be great leaders, including underrepresented people who might not recognize their potential.
@@ -44,10 +44,10 @@ This section describes some simple ways your project and community design can be
 - [ ] We have provided a way for everyone to share their pronouns, and respect those in our conversations and communication.
 
 ### Documentation
-- [ ] We have taken one or more steps to improve the [accessiblity](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of our documentation/website?  
+- [ ] We have taken one or more steps to improve the [accessibility](https://www.comprend.com/blog/2017/test-your-websites-accessibility/) of our documentation/website?  
 - [ ] We encourage and support localization of our documentation.
 
 ### Tasks
 - [ ] We provide non-technical tasks for first-time contributors to learn about, and participate in our project.
-- [ ] To encourage community leadership, we have good 'first-pr'label, encouraging people to support maintainer review of PRs.
+- [ ] To encourage community leadership, we have good 'first-pr' label, encouraging people to support maintainer review of PRs.
 
