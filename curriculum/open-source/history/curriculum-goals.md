@@ -8,7 +8,7 @@ A compliment, or companion module for any course/content teaching 'the history o
 
 ### Why are we building it?
 
-The history of open source, is primarily described as a history of actions and decisions by people related specifically to technology.
+The history of open source, is primarily described as a history of actions and decisions by individuals.
 Culture, diversity, inclusion and equity are usually seperate, and yet the state of these, throughout history -  permitted, elevate and allowed sustained succes, and often unchecked priveldge to certain people and groups; in parallel,  participation and voices of those not enabled, deterred or forced out were muted, or invisible.
 
 We are building this module, as an addon for existing content, to ensure that everyone just stepping into Open Source, has this bigger picture of history, and for benefit of the future. 
