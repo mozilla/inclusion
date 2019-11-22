@@ -25,22 +25,22 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Request to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
 * Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
-* * This includes in-person events and spaces
+  * This includes in-person events and spaces
 * Suggestions for ‘out of office’ ways of staying private.
 * Mandatory CPG onboarding process 
 
 ### Level 5: Extended Ban (Tool access revoked)
-* Request for (public/private) Appology (base, by case)
+* Request for (public/private) apology (case by case)
 * 2-3 months imposed break.
 * All accounts deactivated, or blocked during this time.
 * Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
-* * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
-* * This includes in-person events and spaces
+  * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
+  * This includes in-person events and spaces
 * All community leadership roles suspended. (onboarding/reapplication required outside of this processs)
 * No attendance at Mozilla events during ban period.
 * Not allowed to enter Mozilla Spaces during ban period.
 * Mozilla NDA revoked during ban period.
-* Permission to use the [Mozilla trademark](https://www.mozilla.org/en-US/foundation/trademarks/policy/) are revoked during this ban period. 
+* Permission to use the [Mozilla trademark](https://www.mozilla.org/en-US/foundation/trademarks/policy/) is revoked during this ban period. 
 * Mandatory CPG onboarding process
 
 ### Level 6:  Mozilla, Specified Area(s) Ban
@@ -48,11 +48,11 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Required - no interaction with other ppl involved
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media 
   (Twitter, Facebook). This includes 'following/liking/retweeting'.
-  * * This includes in-person events and spaces
+  * This includes in-person events and spaces
 * Specified accounts deactivated permanently. 
 * No attendance at Mozilla spaces, or events, or events where people involved (in any capacity) are in attendance
 * Mozilla NDA revoked permanently.
-* Permission to use the [Mozilla trademark](https://www.mozilla.org/en-US/foundation/trademarks/policy/) are revoked. 
+* Permission to use the [Mozilla trademark](https://www.mozilla.org/en-US/foundation/trademarks/policy/) is revoked. 
 * All community leadership roles permanently suspended
 
 ### Level 7: All Mozilla, All Areas Permanent Ban
@@ -60,11 +60,11 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Required - no interaction with other ppl involved
   * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media 
   (Twitter, Facebook). This includes 'following/liking/retweeting'.
-  * * This includes in-person events and spaces
+  * This includes in-person events and spaces
 * All accounts deactivated permanently. 
 * No attendance at Mozilla events going forward.
 * Mozilla NDA revoked permanently.
 * Not allowed to enter Mozilla Spaces permanently.
 * All community leadership roles permanently suspended
-* Permission to use the [Mozilla trademark](https://www.mozilla.org/en-US/foundation/trademarks/policy/) are revoked. 
+* Permission to use the [Mozilla trademark](https://www.mozilla.org/en-US/foundation/trademarks/policy/) is revoked. 
 
