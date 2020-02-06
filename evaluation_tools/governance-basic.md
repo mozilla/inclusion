@@ -31,7 +31,7 @@ Leadership is central to project and community culture, and thus require intenti
 - [ ] We recognize 'empowering others' as a core attribute of leadership, and discourage self promotion.
 - [ ] We reach out to people we know would be great leaders, including underrepresented people who might not recognize their potential.
 
-Here is an example of an inclusive leadership page ([Firefox Developer Tools](https://github.com/firefox-devtools/debugger.html/blob/master/docs/community-team.md)).
+Here is an example of an inclusive leadership page ([Firefox Developer Tools](https://github.com/firefox-devtools/debugger/blob/aa827095d86475f816017ff35d6f9c2e83cf7b9b/docs/community-team.md)).
 
 ## Project & Community Design
 This section describes some simple ways your project and community design can be more inclusive.  
