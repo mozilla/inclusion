@@ -31,12 +31,14 @@ Even if you didn't finish...
 3. Log into the chat channel and say hi.
 4. Review the contributing document (CONTRIBUTING.md usually, but sometimes the README.md)
 
+
 ## Questions
 
 1. How did that go?
 2. What did you observec about the community channel?
 3. If you found information on the community leaders/staff how did that information make you feel more or less likely to contribute?
 4. Based on the contributing document, do you feel about contributing?  What would you attempt first?
+5. Is it easy to understand who to ask for help, and who project leaderhip is?
 
 ## Environment (Remaining Time)
 
