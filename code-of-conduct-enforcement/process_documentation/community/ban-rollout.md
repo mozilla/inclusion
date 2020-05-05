@@ -7,10 +7,16 @@ It's important to create one single thread, with all accountable to ensure that 
 
 ## Step 1: Identify all relevant systems and forums [Accountable Name]
 
+| Account  | System  | Accountable  | Action Completed?  |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 * Collect a list of all areas where this person is known to participates. 
 * Report back to the group email on completion.
 
-## Step 2: Document people & steps required to disable access to those systemsn[Accountable Name]
+## Step 2: Document people & steps required to disable access to those systems [Accountable Name]
 
 * Based on the above, create a checklist of systems, accountable people, and status using this document. 
 * Draft an email to system administrators to send on step 4. [Here's a template](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/decision-comms/systems/level-7.md) 
