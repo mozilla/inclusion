@@ -1,4 +1,4 @@
-# Diversity & Inclusion work at Mozilla
+# Diversity & Inclusion in Open Source
 
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open source project maintainers and contributors alike. 
 
