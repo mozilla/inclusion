@@ -2,19 +2,25 @@
 
 # (WIP May 2020)
 
-> ![quote](https://github.com/mozilla/diversity/blob/master/Screenshot_2020-05-14%20Open%20source%20is%20only%20ajar%20without%20inclusion%20%E2%80%93%20Internet%20Citizen.png)
-
 ## Code of Conduct  Enforcement
 
-### Blog Posts
+### Related Blog Posts
+
+* [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 
 ### Resources
 
 #### Investigation & Decision Making Templates
+
+* Template - [Request for more information (from reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/triage/communications/more-information.md)
+* 
+
 #### Decision Communication Templates
+
 #### Process Standards
 * Rolling out a perminant ban.
 * Consequence Ladder
+* [Template - CPG/Code of Conduct 'Onboarding'](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/cpg-onboarding.md)
 
 ## Education & Training
 
