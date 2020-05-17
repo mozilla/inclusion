@@ -47,6 +47,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Open Source Maintainer](https://mozilla.github.io/maintainer-cohort/)
 
 ## Data & Metrics Standards
+* [How to Apply Metrics for Inclusion to Your Open Source Project](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Best Practices  (asking about diversity demographics)](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/best-practices-diverse-data.md)
 * [Code of Conduct Experience (Survey questions)](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md)
 * [Standard - Dis/Ability](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/disability.md)
