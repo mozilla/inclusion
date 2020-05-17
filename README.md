@@ -61,7 +61,8 @@ Welcome!  This repository contains a number of resources, templates, standards a
 ## Evaluation Resources/Tools
 
 * [Open Source Governance Checklist](https://github.com/mozilla/diversity/blob/master/evaluation_tools/governance-basic.md)
-* [Inclusive Leadership Evaluation/Metric](https://github.com/emmairwin/wg-diversity-inclusion/blob/master/focus-areas/leadership/leadership-principles.md)
+* [Inclusive Leadership Principles](https://github.com/emmairwin/wg-diversity-inclusion/blob/master/focus-areas/leadership/leadership-principles.md)
+* [Inclusive Leadership Checklist - Maintainer Roles](https://github.com/mozilla/diversity/blob/master/leadership/leadership-principles-checklist-maintainer-tasks.md)
 * [Template - Contributor Testing](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-testing-steps.md)
 * [Open Source Project Inclusion Checklist (for contributors and projects)](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-assessment-basic.md.md)
 * [Code of Conduct Enforcement (Evaluation Tool)](https://mozilla.github.io/diversity-coc-review.io/modules/assessment/protected-groups/)
