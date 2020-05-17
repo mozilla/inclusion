@@ -1,5 +1,7 @@
 # Diversity & Inclusion work at Mozilla
 
+Welcome!  This repository contains a number of resources, templates, standards and other useful things for open source project maintainers and contributors alike. 
+
 ## Code of Conduct  Enforcement
 
 ### Related Blog Posts
@@ -54,6 +56,7 @@
 * [Inclusive Leadership Evaluation/Metric](https://github.com/emmairwin/wg-diversity-inclusion/blob/master/focus-areas/leadership/leadership-principles.md) 
 * [Template - Contributor Testing](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-testing-steps.md)
 * [Open Source Project Inclusion Checklist (for contributors and projects)](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-assessment-basic.md.md)
+* [Code of Conduct Enforcement (Evaluation Tool)](https://mozilla.github.io/diversity-coc-review.io/modules/assessment/protected-groups/)
 
 ## Research
 
@@ -63,6 +66,7 @@
 * [What we Learned about Gender Identity in Open Source](https://medium.com/@sunnydeveloper/what-we-learned-about-gender-identity-in-open-source-d9acea0b7586)
 * ['Finding Inclusion Bugs'](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a)  - [Inclusion Bug Campaign](https://medium.com/@sunnydeveloper/squash-inclusion-bugs-982a3e5ee29d)
 
+
 ## Media / Articles / Blog
 
 * Open Source is only Ajar without Inclusion (Internet Citizen)
@@ -70,4 +74,5 @@
 * [Innovating for Diversity & Inclusion (research report part #1)](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e)
 * [Inclusive Organizing for Open Source Communities](https://medium.com/mozilla-open-innovation/reflection-inclusive-organizing-for-open-source-communities-9c44f0b689c1)
 * [We See You - Reaching Diverse Audiences in FOSS](https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425)
+* [Innovation for Inclusion in the Mozilla Open Source Support (MOSS) Program](https://blog.mozilla.org/careers/innovating-for-inclusion-in-the-mozilla-open-source-support-program/)
 
