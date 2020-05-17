@@ -1,6 +1,14 @@
 # Diversity & Inclusion in Open Source
 
-Welcome!  This repository contains a number of resources, templates, standards and other useful things for open source project maintainers and contributors alike. 
+Welcome!  This repository contains a number of resources, templates, standards and other useful things for open source project maintainers and contributors alike.
+
+   * [Table of Contents](#diversity--inclusion-in-open-source)
+      * [Code of Conduct  Enforcement](#code-of-conduct--enforcement)
+      * [Education &amp; Training](#education--training)
+      * [Data &amp; Metrics Standards](#data--metrics-standards)
+      * [Evaluation Resources/Tools](#evaluation-resourcestools)
+      * [Research](#research)
+      * [Media / Articles / Blog Posts](#media--articles--blog)
 
 ## Code of Conduct  Enforcement
 
@@ -8,7 +16,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 * [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 
-#### Investigation & Decision Making 
+#### Investigation & Decision Making
 
 * [Template - Decision Making](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/role-groups.md)
 * [Template - Working Group 1st Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-first-agenda.md)
@@ -16,7 +24,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Template - Investigation documentation](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/incident-investigation-template.md)
 
 ##### Investigation Communication
-* Template - [Request for Clarification(from reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/triage/communications/more-information.md)
+* [Template - Request for Clarification(from reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/triage/communications/more-information.md)
 * [Template - Receipt of Report (to reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reporter-investigation-started.md)
 * [Template - Request for more information(to reported)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reported-request-for-clarification.md)
 * [Templates - Decision (to reported) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reported)
@@ -53,7 +61,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 ## Evaluation Resources/Tools
 
 * [Open Source Governance Checklist](https://github.com/mozilla/diversity/blob/master/evaluation_tools/governance-basic.md)
-* [Inclusive Leadership Evaluation/Metric](https://github.com/emmairwin/wg-diversity-inclusion/blob/master/focus-areas/leadership/leadership-principles.md) 
+* [Inclusive Leadership Evaluation/Metric](https://github.com/emmairwin/wg-diversity-inclusion/blob/master/focus-areas/leadership/leadership-principles.md)
 * [Template - Contributor Testing](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-testing-steps.md)
 * [Open Source Project Inclusion Checklist (for contributors and projects)](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-assessment-basic.md.md)
 * [Code of Conduct Enforcement (Evaluation Tool)](https://mozilla.github.io/diversity-coc-review.io/modules/assessment/protected-groups/)
@@ -69,10 +77,9 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Media / Articles / Blog
 
-* Open Source is only Ajar without Inclusion (Internet Citizen)
+* [Open Source is only Ajar without Inclusion (Internet Citizen)](https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion/)
 * [Inclusion at Scale in the Mozilla and Kubernetes Open Source Communities](https://thenewstack.io/inclusion-at-scale-in-the-mozilla-and-kubernetes-open-source-communities/)
 * [Innovating for Diversity & Inclusion (research report part #1)](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e)
 * [Inclusive Organizing for Open Source Communities](https://medium.com/mozilla-open-innovation/reflection-inclusive-organizing-for-open-source-communities-9c44f0b689c1)
 * [We See You - Reaching Diverse Audiences in FOSS](https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425)
 * [Innovation for Inclusion in the Mozilla Open Source Support (MOSS) Program](https://blog.mozilla.org/careers/innovating-for-inclusion-in-the-mozilla-open-source-support-program/)
-
