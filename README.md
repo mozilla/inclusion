@@ -1,14 +1,10 @@
 # Diversity & Inclusion work at Mozilla
 
-# (WIP May 2020)
-
 ## Code of Conduct  Enforcement
 
 ### Related Blog Posts
 
 * [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
-
-### Resources
 
 #### Investigation & Decision Making 
 
@@ -49,6 +45,7 @@
 * [Standard - Language](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/language.md)
 * [Standard - Race/Ethnicity](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/race-ethnicity.md)
 * [Standard - Sexual Orientation](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/sexual-orientation.md)
+* [Standard - Github CODE_OF_CONDUCT](https://github.com/mozilla/repo-templates/blob/master/templates/CODE_OF_CONDUCT.md)
 
 
 ## Evaluation Resources/Tools
@@ -64,7 +61,7 @@
 * [D&I in Open Source Survey (2018) - What we Learned](https://docs.google.com/presentation/d/13UxBGj2lI66SLjl6sp4NE3DH2ndT0k5QM0pPyyzZXuY/edit#slide=id.g25275a8168_3_275)
 * [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
 * [What we Learned about Gender Identity in Open Source](https://medium.com/@sunnydeveloper/what-we-learned-about-gender-identity-in-open-source-d9acea0b7586)
-* ['Finding Inclusion Bugs'](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a)
+* ['Finding Inclusion Bugs'](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a)  - [Inclusion Bug Campaign](https://medium.com/@sunnydeveloper/squash-inclusion-bugs-982a3e5ee29d)
 
 ## Media / Articles / Blog
 
@@ -73,5 +70,4 @@
 * [Innovating for Diversity & Inclusion (research report part #1)](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e)
 * [Inclusive Organizing for Open Source Communities](https://medium.com/mozilla-open-innovation/reflection-inclusive-organizing-for-open-source-communities-9c44f0b689c1)
 * [We See You - Reaching Diverse Audiences in FOSS](https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425)
-
 
