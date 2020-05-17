@@ -26,7 +26,7 @@
 - [ ] Do we treat everyone in roles of influence equally? 
 - [ ] Do we give  less space to the loudest voices, native English speakers, or time-zones? Imagine the impact on a quieter person, non-native English speaker outside of North America
 
-### (Principle #6)  Leadership should include Technical and  non-technical Experts
+### (Principle #6)  Leadership should include Technical and  non-technical experts
 - [ ] Maintainer-like roles require non-technical skill, including engagement of those opening issues, documentation and community engagement. Do you explicitly invite these skillsets to step up as well?
 
 
