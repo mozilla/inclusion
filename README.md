@@ -38,7 +38,6 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Rolling out a all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
 * [Consequence Ladder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/consequence-ladder.md)
 * [Template - CPG/Code of Conduct 'Onboarding'](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/cpg-onboarding.md)
-* [Template - Inclusive Leadership 'Team Page'](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 
 ## Education & Training
 
@@ -57,6 +56,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Standard - Race/Ethnicity](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/race-ethnicity.md)
 * [Standard - Sexual Orientation](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/sexual-orientation.md)
 * [Standard - Github CODE_OF_CONDUCT](https://github.com/mozilla/repo-templates/blob/master/templates/CODE_OF_CONDUCT.md)
+* [Standard - Inclusive Leadership 'Team Page'](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 
 
 ## Evaluation Resources/Tools
