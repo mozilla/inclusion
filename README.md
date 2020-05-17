@@ -4,7 +4,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Code of Conduct  Enforcement
 
-### Related Blog Posts
+#### Related Blog Posts
 
 * [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 
@@ -17,7 +17,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ##### Investigation Communication
 * Template - [Request for Clarification(from reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/triage/communications/more-information.md)
-* [Template - Reciept of Report (to reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reporter-investigation-started.md)
+* [Template - Receipt of Report (to reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reporter-investigation-started.md)
 * [Template - Request for more information(to reported)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reported-request-for-clarification.md)
 * [Templates - Decision (to reported) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reported)
 * [Templates - Decision(to reporter) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reporter)
@@ -34,7 +34,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Education & Training
 
-*[(Staff) CPG Training](https://mozilla.teachable.com/courses/enrolled/634901)
+* [(Staff) CPG Training](https://mozilla.teachable.com/courses/enrolled/634901)
 * (Contributors & Communities) CPG Training  (coming soon)
 * [Open Source Maintainer](https://mozilla.github.io/maintainer-cohort/)
 
