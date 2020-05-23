@@ -46,7 +46,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Education & Training
 
-* [(Staff) CPG Training](https://mozilla.teachable.com/courses/enrolled/634901)
+* [(Staff) CPG Training - Like 'first aid course' for public/community-facing staff](https://mozilla.teachable.com/courses/enrolled/634901)
 * (Contributors & Communities) CPG Training  (coming soon)
 * [Open Source Maintainer](https://mozilla.github.io/maintainer-cohort/)
 
