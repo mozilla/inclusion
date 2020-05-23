@@ -40,8 +40,10 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Templates - Decision(to reporter) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reporter)
 * [Template - Request to Systems Administrator](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/decision-comms/systems/level-7.md)
 
-[Enforcement FAQ (WIP)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/community_comms/FAQ%20-%20Contributor.md)
-[Template - Pre-Event Reminder Comms](https://github.com/mozilla/diversity/blob/master/code-of-conduct-events/comms/mozillians-pre-event-reminder.md)
+#### 
+
+* [Enforcement FAQ (WIP)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/community_comms/FAQ%20-%20Contributor.md)
+* [Template - Pre-Event Reminder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-events/comms/mozillians-pre-event-reminder.md)
 
 
 ## Education & Training
