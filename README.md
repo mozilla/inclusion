@@ -12,8 +12,8 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Code of Conduct  Enforcement
 
-[Mozilla Community Particiaption Guidelines Page](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-[Mozilla 'How to Report' Page](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
+* [Mozilla Community Particiaption Guidelines Page](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+* [Mozilla 'How to Report' Page](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
 
 #### Related Blog Posts
 
