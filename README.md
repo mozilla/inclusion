@@ -46,9 +46,9 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Education & Training
 
-* [(Staff) CPG Training - which is basically a 'first aid course' for public/community-facing staff](https://mozilla.teachable.com/courses/enrolled/634901)
+* [(Staff) CPG Training - which is basically like a 'first aid course', but for enforcement of the CPG ](https://mozilla.teachable.com/courses/enrolled/634901)
 * (Contributors & Communities - also a 'first aid course' for community) CPG Training  (coming soon)
-* [Open Source Maintainer](https://mozilla.github.io/maintainer-cohort/)
+* [Open Source Maintainer - designed to deliver (over 4 weeks or more) training for underrepresented people with goals for leadership in their careers](https://mozilla.github.io/maintainer-cohort/)
 
 ## Data & Metrics Standards
 * [How to Apply Metrics for Inclusion to Your Open Source Project](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
