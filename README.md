@@ -21,7 +21,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)(2018)
 
 #### Process Standards for Enforcement
-* [Rolling out a all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
+* [Rolling out an all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
 * [Consequence Ladder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/consequence-ladder.md)
 * [Template - CPG/Code of Conduct 'Onboarding'](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/cpg-onboarding.md)
 * [Template - Decision Making](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/role-groups.md)
