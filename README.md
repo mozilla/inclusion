@@ -20,9 +20,14 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Frameworks for Governance, Incentive and Consequence](https://medium.com/mozilla-open-innovation/frameworks-for-governance-incentive-and-consequence-in-foss-e1de6c091bdc) (2017)
 * [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)(2018)
 
+#### Process Standards for Enforcement
+* [Rolling out a all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
+* [Consequence Ladder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/consequence-ladder.md)
+* [Template - CPG/Code of Conduct 'Onboarding'](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/cpg-onboarding.md)
+* [Template - Decision Making](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/role-groups.md)
+
 #### Investigation & Decision Making
 
-* [Template - Decision Making](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/role-groups.md)
 * [Template - Working Group 1st Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-first-agenda.md)
 * [Template - Working Group Standard Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-standard-agenda.md)
 * [Template - Investigation documentation](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/incident-investigation-template.md)
@@ -38,10 +43,6 @@ Welcome!  This repository contains a number of resources, templates, standards a
 [Enforcement FAQ (WIP)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/community_comms/FAQ%20-%20Contributor.md)
 [Template - Pre-Event Reminder Comms](https://github.com/mozilla/diversity/blob/master/code-of-conduct-events/comms/mozillians-pre-event-reminder.md)
 
-#### Process Standards
-* [Rolling out a all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
-* [Consequence Ladder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/consequence-ladder.md)
-* [Template - CPG/Code of Conduct 'Onboarding'](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/cpg-onboarding.md)
 
 ## Education & Training
 
