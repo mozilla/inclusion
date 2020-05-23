@@ -12,6 +12,9 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Code of Conduct  Enforcement
 
+[Mozilla Community Particiaption Guidelines Page](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+[Mozilla 'How to Report' Page](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
+
 #### Related Blog Posts
 
 * [Frameworks for Governance, Incentive and Consequence](https://medium.com/mozilla-open-innovation/frameworks-for-governance-incentive-and-consequence-in-foss-e1de6c091bdc) (2017)
