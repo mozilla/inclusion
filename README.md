@@ -39,6 +39,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Templates - Decision (to reported) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reported)
 * [Templates - Decision(to reporter) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reporter)
 * [Template - Request to Systems Administrator](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/decision-comms/systems/level-7.md)
+* [Template - External Ban Decision](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reported/decision-matrix-ban.md)
 
 #### 
 
