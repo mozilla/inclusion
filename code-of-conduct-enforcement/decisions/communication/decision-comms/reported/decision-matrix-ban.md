@@ -7,10 +7,9 @@ Your complaint was reviewed, and an investigation conducted by [working group or
 
 The decision was made to retain the level 7 ban.
 
-This means:
+This means a full ban from:
 
 * Roles
-* Permissions
 * Physical spaces
 * Channels
 
