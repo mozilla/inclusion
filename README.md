@@ -87,6 +87,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 
 ## Media / Articles / Blog
 
+* [Weaving Safety into Open Source Collaboration](https://blog.mozilla.org/community/2020/09/10/weaving-safety-into-the-fabric-of-open-source/) How Mozilla built a cross-organiztional program for CPG enforcement and safety.
 * [Open Source is only Ajar without Inclusion (Internet Citizen)](https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion/)
 * [Inclusion at Scale in the Mozilla and Kubernetes Open Source Communities](https://thenewstack.io/inclusion-at-scale-in-the-mozilla-and-kubernetes-open-source-communities/)
 * [Innovating for Diversity & Inclusion (research report part #1)](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e)
