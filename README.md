@@ -27,7 +27,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Template - Decision Making](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/role-groups.md)
 
 #### Investigation & Decision Making
-
+* [Template - Decision Tracking Doc](https://github.com/mozilla/inclusion/blob/master/code-of-conduct-enforcement/investigation/working-group/decision.md)
 * [Template - Working Group 1st Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-first-agenda.md)
 * [Template - Working Group Standard Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-standard-agenda.md)
 * [Template - Investigation documentation](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/incident-investigation-template.md)
