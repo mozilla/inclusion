@@ -9,7 +9,7 @@ This file describes, those roles which should be considered in the process of re
 **R**esponsible -  Coordinator   
 **A**ccountable - CCRM , CPGP
 
-**S**upportive  -  Legal, HR, Working Group  
+**S**upportive  -  Legal, HR 
 **C**onsulted - Stakeholder(s)  
 **I**nvolved  -  Individuals not covered by above roles.(+ Reporters)
 
