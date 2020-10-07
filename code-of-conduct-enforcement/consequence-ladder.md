@@ -9,33 +9,32 @@ Recommendations do not indicate violation of Conflict Resolution Policy (CPG).
 A private, written warning from project leadership, with **clarity of violation, consequences of continued behavior**.
 
 ### Level 2: Warning
-Recommendations indicate a violation of CPG through a single incident or series of actions that create toxicity in the community. Mediation provides opportunity to provide perspective, gain empathy, and steps for resetting behavior.
-* Evaluation of NDA access.
-* Boundaries for further action set. (next time x happens)
+A private, written warning from project leadership, with  **clarity of violation, consequences of continued behavior**. Additionally:
+* Evaluation(possible revoke) of NDA access.
+* Communication of next-level consequence of behaviors are repeated (according to this ladder).
 
 ### Level 3: Warning + Mandatory Cooling Off Period (Tool Access Retained)
-* A private warning from project leadership, with **clarity of violation, consequences of continued behavior**.
-* Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
-    * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
+A private warning from project leadership, with **clarity of violation, consequences of continued behavior**. Additionally:
+* Request to avoid interaction on community messaging platforms (public forums, commenting on bugs).
+* Requirement, they not interaction with others in the report, or those who they suspect are involved in the report.
+    * This includes avoiding any interactions in any Mozilla channels, spaces/offices, as well as external channels like social media (Twitter, Facebook). For example,  'following/liking/retweeting' would be considered a violation of these terms, and consequence would escalate according to his ladder.
 * Mandatory Cooling off Period. (Tools are not revoked)
 * Mandatory CPG onboarding process.
 
 ### Level 4: Warning + Mandatory Cooling Off Period (Tool Access Revoked)
-* A private warning from project leadership, with **clarity of violation, consequences of continued behavior**.
-* Request to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
-* Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
-    * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
+A private warning from project leadership, with **clarity of violation, consequences of continued behavior**. Additionally:
+* Required to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
+   * This includes avoiding any interactions in any Mozilla channels, spaces/offices, as well as external channels like social media (Twitter, Facebook). For example,  'following/liking/retweeting' would be considered a violation of these terms, and consequence would escalate according to his ladder.
     * This includes in-person events and spaces.
-* Suggestions for ‘out of office’ ways of staying private.
+* Suggestions for ‘out of office’ type of message on platforms, to reduce curiosity, or suspicion among those not involved.
 * Mandatory CPG onboarding process.
 
 ### Level 5: Extended Ban (Tool access revoked)
-* Request for (public/private) apology (case by case).
-* 2-3 months imposed break.
+Private communication of ban from project leadership, with **clarity of violation, consequences of continued behavior**. Additionally:
+* 2-4 months imposed break.
 * All accounts deactivated, or blocked during this time.
-* Required - no interaction with people involved, including unsolicited interaction with those enforcing the guidelines.
-    * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
-    * This includes in-person events and spaces.
+* Required to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
+   * This includes avoiding any interactions in any Mozilla channels, spaces/offices, as well as external channels like social media (Twitter, Facebook). For example,  'following/liking/retweeting' would be considered a violation of these terms, and consequence would escalate according to his ladder. 
 * All community leadership roles suspended. (onboarding/reapplication required outside of this processs)
 * No attendance at Mozilla events during ban period.
 * Not allowed to enter Mozilla Spaces during ban period.
@@ -44,10 +43,10 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * Mandatory CPG onboarding process.
 
 ### Level 6:  Mozilla, Specified Area(s) Ban
+Private communication of ban from project leadership, with **clarity of violation, consequences of continued behavior**. Additionally:
 * Permanent ban in specified areas of the project.
-* Required - no interaction with other people involved.
-    * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
-    * This includes in-person events and spaces.
+* Required to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
+   * This includes avoiding any interactions in any Mozilla channels, spaces/offices, as well as external channels like social media (Twitter, Facebook). For example,  'following/liking/retweeting' would be considered a violation of these terms, and consequence would escalate according to his ladder.
 * Specified accounts deactivated permanently.
 * No attendance at Mozilla spaces, or events, or events where people involved (in any capacity) are in attendance.
 * Mozilla NDA revoked permanently.
@@ -55,10 +54,9 @@ Recommendations indicate a violation of CPG through a single incident or series 
 * All community leadership roles permanently suspended.
 
 ### Level 7: All Mozilla, All Areas Permanent Ban
-* Permanent ban.
-* Required - no interaction with other people involved.
-    * This includes avoiding any interactions in any Mozilla channels, as well as external channels like social media (Twitter, Facebook). This includes 'following/liking/retweeting'.
-    * This includes in-person events and spaces.
+Private communication of ban from project leadership, with **clarity of violation, consequences of continued behavior**. Additionally:
+* Required to avoid interaction on community messaging platforms (public forums, commenting on bugs) .
+   * This includes avoiding any interactions in any Mozilla channels, spaces/offices, as well as external channels like social media (Twitter, Facebook). For example,  'following/liking/retweeting' would be considered a violation of these terms, and consequence would escalate (including legal).
 * All accounts deactivated permanently.
 * No attendance at Mozilla events going forward.
 * Mozilla NDA revoked permanently.
