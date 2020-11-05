@@ -2,9 +2,8 @@
 # INCIDENT INVESTIGATION TEMPLATE #
 ### [Short Title Describing Complaint]
 
-
-#### Report Type:
-*Describe the report (ie: harassment, fraud, slander, abuse)*
+#### Reporter:
+#### Reported
 
 
 #### Reported To:
@@ -18,7 +17,7 @@
 #### Investigator (Primary & secondary):
 
 
-#### Accused:
+#### Reported:
 *The name listed in the report as having violated the CPG. Full name, and link to Mozillians profile where possible.*
 
 
@@ -26,15 +25,11 @@
 *Provide word-for-word as provided by the reporter.*
 
 #### Location where the incident took place.
-
+*online, and offline spaces*
 
 #### Expanded Complaint:
 *Provide additional context for the report, provided by trusted source.*
 
 
-#### Investigation to date:
-*Describe what we know so far, this includes links to things like screenshots or IRC chats, discussions etc.*
-
-
 #### Any other information:
-*This can also be a link to a document or documents with greater detail.*
+*This can also be a link to a screenshots or documents with greater detail.*
