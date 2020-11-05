@@ -71,4 +71,3 @@ First time contributing to open source? Check out this Blog, [Best practices in 
 ## How to report bugs
 
 Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mozilla/diversity/issues)
-
