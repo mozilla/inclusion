@@ -1,4 +1,4 @@
-# CPG Onboarding Agenda Guide
+# CPG Onboarding Agenda Gui
 
 ## Purpose 
 
