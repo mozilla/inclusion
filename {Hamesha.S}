@@ -1,0 +1,12 @@
+New Notes by H.S
+
+<1>//For format details, see https://aka.ms/devcontainer.json. 
+<2>For config options, see the REDMI,
+at://https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node.
+<3>{"name": "docs.github.com",	"build": {		"dockerfile": "Dockerfile",		// Update 'VARIANT' to pick a Node version: 12, 14, 16		"args": { "VARIANT": "16"}.
+<4>Set *default* container specific settings.json values on container create.	settings}
+ <5>{"terminal.integrated.shell.linux"/bin/bash","cSpell.language": ",en"	},// Visual Studio Code extensions which help authoring for <docs.github.com.>	"extensions"            <6>[	"dbaeumer.vscode-eslint","sissel.shopify-liquid","davidanson.vscode-markdownlint","bierner.markdown-preview-github-styles","yzhang.markdown-all-in-one","streetsidesoftware.code-spell-checker"	] 
+<7>Use 'forwardPorts' to make a list of ports inside the container available locally."forwardPorts": [RS(₹)4000 ]
+<8>Use'postCreateCommand'to run commands after the container is created."postCreateCommand"}
+<9>"npm ci && npm run build"Comment out connect as root instead. 
+More,info:-{{https://akshay_Kumar,Save the birds and save the Trees ,Earth save,Water 💦 SAVE}{{.Rs-100-0🌎.ms,vscode-remote,containers,non--root	"remoteUser",node}}.
