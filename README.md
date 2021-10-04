@@ -18,7 +18,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 #### Related Blog Posts
 
 * [Frameworks for Governance, Incentive and Consequence](https://medium.com/mozilla-open-innovation/frameworks-for-governance-incentive-and-consequence-in-foss-e1de6c091bdc) (2017)
-* [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)(2018)
+* [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) (2018)
 
 #### Process Standards for Enforcement
 * [Rolling out an all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
