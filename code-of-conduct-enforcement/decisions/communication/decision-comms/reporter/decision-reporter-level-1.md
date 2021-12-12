@@ -12,7 +12,7 @@ A working group thoroughly reviewed reviewed this complaint and reached the foll
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
 * Decision: [violation], [did/did not] occur [and is subject to consequences]
 
-This email is to let you know that [person] has been issued a [warning](https://github.com/osdiversity/osdiversity/blob/master/code-of-conduct/consequence-ladder.md). Any further violations will result in escalated consequence.
+This email is to let you know that [person] has been issued a warning. Any further violations will result in escalated consequence.
 
 [Include Personal Message]
 We want to take this moment to thank you for sharing this incident with us. We cannot build the community we want and need without surfacing issues like this one.

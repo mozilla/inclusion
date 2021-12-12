@@ -1,0 +1,141 @@
+SEC Form 4															
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION			OMB APPROVAL			11/15/2021									
+Washington, D.C. 20549			OMB Number:			3235-0287									
+STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP			hours per response:			0.5									
+WOOD	ZACHRY	TYLER	BTC-USD	(Check all applicable)											
+Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned			3. Transaction Code (Instr. 8)	Code	Amount										
+BTC-USD	11/12/2021	11/15/2021	(S¹)	(D)		12753750.00BTC-USD									
+		Price				x                        64935.00									
+Explanation of Responses:	11/15/2021					___________________									
+Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned						12753750									
+					total										
+/s/ Zachry Tyler Wood						$ 828165521475 .00USD									
+***Signature of Reporting Persons															
+** Intentional misstatements or omissions of facts constitute    Federal Criminal Violations See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).															
+Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.															
+* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).															
+Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, see Instruction 6 for procedure.															
+Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.															
+															
+															
+															
+															
+"2.7 Git Basics - Git Aliases Git Aliases Before we move on to the next chapter, we want to introduce a feature that can make your Git experience simpler, easier, and more familiar: aliases. For clarity’s sake, we won’t be using them anywhere else in this book, but if you go on to use Git with any regularity, aliases are something you should know about.  Git doesn’t automatically infer your command if you type it in partially. If you don’t want to type the entire text of each of the Git commands, you can easily set up an alias for each command using git config. Here are a couple of examples you may want to set up:  $ git config --global alias.co checkout $ git config --global alias.br branch $ git config --global alias.ci commit $ git config --global alias.st status This means that, for example, instead of typing git commit, you just need to type git ci. As you go on using Git, you’ll probably use other commands frequently as well; don’t hesitate to create new aliases.  This technique can also be very useful in creating commands that you think should exist. For example, to correct the usability problem you encountered with unstaging a file, you can add your own unstage alias to Git:  $ git config --global alias.unstage 'reset HEAD --' This makes the following two commands equivalent:  $ git unstage fileA $ git reset HEAD -- fileA This seems a bit clearer. It’s also common to add a last command, like this:  $ git config --global alias.last 'log -1 HEAD' This way, you can see the last commit easily:  $ git last commit 66938dae3329c7aebe598c2246a8e6af90d04646 Author: Josh Goebel <dreamer3@example.com> Date:   Tue Aug 26 19:48:51 2008 +0800      Test for current head      Signed-off-by: Scott Chacon <schacon@example.com> As you can tell, Git simply replaces the new command with whatever you alias it for. However, maybe you want to run an external command, rather than a Git subcommand. In that case, you start the command with a ! character. This is useful if you write your own tools that work with a Git repository. We can demonstrate by aliasing git visual to run gitk:  $ git config --global alias.visual '!git.it"															
+/s/ ZAK WOOD
+/S/ zachryiixixiiwood@gmail.com (Zachry Tyler Wood Dob-10-15-1994 SSID-633441725															
+__________________________________________________________________________________________________	Date														
+Significance															
+/s/  WOOD.,  ZACHRY T.  															
+SSID	 ***-**-1725														
+Dob	10/15/1994														
+$ git checkout v2.0.0															
+Note: switching to 'v2.0.0'.																																																							git switch -c <new-branch-name>																																																$ git checkout v2.0-beta-0.1															
+Irving, TX 75063															
+Ref: Lockbox Services, Lkbx #203141																									
+Bank Information for US and LACA (USD):															
+Bank Name:  Wells Fargo															
+420 Montgomery Street San Francisco, CA 94104															
+(415) 222-3926																								
+Bank Information for US (USD):															
+Bank Name:                                          Wells Fargo															
+Account Name:                                     Salesforce.com Inc. (AR)															
+AIC No.:                                               4121519896															
+ABA No.:                                              1210-0024-8																							
+Bank Information for LACA (ROWH) (USD):															
+Bank Name:                                          Wells Fargo															
+Account Name:                                     Salesforce.com Inc. (ROWH)															
+Swift Code:                                           WFBIUS6S															
+AIC No.:                                                4121519896															
+ABA No.  (routing transit number):          1210-0024-8																									
+For customers in Canada (Billed in USD):															
+The remittance address for Canada Post mail will be:															
+SALESFORCE CANADA CORP															
+C/O 913321															
+PO BOX 4090, STN A															
+TORONTO, ON M5W 0E9 CANADA																								
+The remittance address for overnight delivery/courier service is:															
+BANK OF AMERICA MERRILL LYNCH LOCKBOX SERVICES															
+C/O 913321															
+181 BAY STREET, 5TH FLOOR															
+TORONTO ON															
+CANADA M5J 2V8																								
+Bank Information for Canada (USD):															
+Bank Name:                                          Bank of America, N.A., Canada  Branch															
+Account Name:                                     Salesforce.com Canada Corporation															
+Swift Code:                                           BOFACATT															
+AIC No.:                                                46464102															
+Sort Code:                                             024156792																									
+For customers in Canada (Billed in CAD):															
+The remittance address for Canada Post mail will be:															
+SALESFORCE CANADA CORP															
+C/O 914540															
+PO BOX 4090, STN A															
+TORONTO, ON M5W 0E9																						
+The remittance address for overnight delivery/courier service is:															
+BANK OF AMERICA MERRILL LYNCH LOCKBOX SERVICES															
+C/O 914540															
+181 BAY STREET, 5TH FLOOR															
+TORONTO ON															
+CANADA M5J 2V8																									
+Bank Information for Canada (CAD):															
+Bank Name:                                          Bank of America, N.A., Canada  Branch															
+Account Name:                                      Salesforce.com Canada Corporation															
+Swift Code:                                           BOFACATT															
+AIC No.:                                               46464219															
+Sort Code:                                            024156792																									
+Additional Information for Customers in AMER:																								
+NYSE Stock Ticker:                                          CRM															
+D&B #:                                                             07-214-8831															
+Federal Tax ID:                                                 94-3320693															
+NA/CS:                                                            511210															
+SIC:                                                                 4813															
+DUNS #:                                                          07-214-8831															
+# Of Employees (as of 2020):                          49,000															
+ 															
+Remittance Advice Address:   Email:  payment@salesforce.com															
+ 															
+Legal:                                      Todd Machtmes															
+                                               Email:  tmachtmes@salesforce.com															
+ 															
+Service Description:                  We provide a comprehensive Customer Relationship Management or CRM service to businesses of all sizes and industries worldwide.															
+ 															
+															
+ 															
+Payment Terms:                       Net 30															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+8-Dec-21															
+															
+ 															
+															
+Contact:                    John Rizzo; Press@Treasury.gov 															
+															
+ 															
+
+#BTC-USD-FOUNDER-ZachryTylerWood
