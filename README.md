@@ -1,19 +1,19 @@
-# Diversity & Inclusion in Open Source
+# Diversity & Inclusion in Open Source The LadyK Project
 
-Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
+Welcome! This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
    * [Table of Contents](#diversity--inclusion-in-open-source)
-      * [Code of Conduct  Enforcement](#code-of-conduct--enforcement)
+      * [Code of Conduct Enforcement](#code-of-conduct--enforcement)
       * [Education &amp; Training](#education--training)
       * [Data &amp; Metrics Standards](#data--metrics-standards)
       * [Evaluation Resources/Tools](#evaluation-resourcestools)
       * [Research](#research)
-      * [Media / Articles / Blog Posts](#media--articles--blog)
+      * [Media/Articles/Blog Posts](#media--articles--blog)
 
 ## Code of Conduct  Enforcement
 
-* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-* [Mozilla 'How to Report' Page](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
+* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-CA/about/governance/policies/participation)
+* [Mozilla 'How to Report' Page](https://www.mozilla.org/en-CA/about/governance/policies/participation/reporting)
 
 #### Related Blog Posts
 
@@ -57,14 +57,14 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [How to Apply Metrics for Inclusion to Your Open Source Project](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Best Practices  (asking about diversity demographics)](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/best-practices-diverse-data.md)
 * [Code of Conduct Experience (Survey questions)](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md)
-* [Standard - Dis/Ability](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/disability.md)
+* [Standard - Disability](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/disability.md)
 * [Standard - Gender Identity](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/gender-identity.md)
 * [Standard - Pronouns](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/gender-pronouns.md)
 * [Standard - Language](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/language.md)
 * [Standard - Race/Ethnicity](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/race-ethnicity.md)
 * [Standard - Sexual Orientation](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/sexual-orientation.md)
 * [Standard - Github CODE_OF_CONDUCT](https://github.com/mozilla/repo-templates/blob/master/templates/CODE_OF_CONDUCT.md)
-* [Standard - Inclusive Leadership 'Team Page'](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
+* [Standard - Inclusive Leadership 'The LadyK Project'](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 
 
 ## Evaluation Resources/Tools
@@ -74,13 +74,13 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [Inclusive Leadership Checklist - Maintainer Roles](https://github.com/mozilla/diversity/blob/master/leadership/leadership-principles-checklist-maintainer-tasks.md)
 * [Template - Contributor Testing](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-testing-steps.md)
 * [Open Source Project Inclusion Checklist (for contributors and projects)](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-assessment-basic.md.md)
-* [Code of Conduct Enforcement (Evaluation Tool)](https://mozilla.github.io/diversity-coc-review.io/modules/assessment/protected-groups/)
+* [Code of Conduct Enforcement (Evaluation Tool)](https://mozilla.github.io/diversity-coc-review.io/modules/assessment/protected-groups/TheLadyKProject)
 
 ## Research
 
 * [First-Language Interviews](https://medium.com/mozilla-open-innovation/celebrating-mother-language-day-in-open-source-5bd254890094)
 * [D&I in Open Source Survey (2018) - What we Learned](https://docs.google.com/presentation/d/13UxBGj2lI66SLjl6sp4NE3DH2ndT0k5QM0pPyyzZXuY/edit#slide=id.g25275a8168_3_275)
-* [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
+* [Mozilla & the Rebel Alliance](https://report.mozilla.community)
 * [What we Learned about Gender Identity in Open Source](https://medium.com/@sunnydeveloper/what-we-learned-about-gender-identity-in-open-source-d9acea0b7586)
 * ['Finding Inclusion Bugs'](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a)  - [Inclusion Bug Campaign](https://medium.com/@sunnydeveloper/squash-inclusion-bugs-982a3e5ee29d)
 
