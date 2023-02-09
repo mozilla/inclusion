@@ -12,7 +12,7 @@ The behaviors that informed this ban with clear steps to avoid in future are des
 
 * Violation 1  - [CPG exact wording] , ways to avoid
 * Violation 2  - [CPG exact wording] , ways to avoid
-* Violation 3  - [CPG exact wording] , ways to avoid
+* Violation 3  - [CPG exact wording] , aways to avoid
 
 ## Reinstatement Description 
 Describe what access is being granted, and if any restrictions remain.
