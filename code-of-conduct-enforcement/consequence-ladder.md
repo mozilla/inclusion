@@ -16,7 +16,7 @@ A private, written warning from project leadership, with  **clarity of violation
 ### Level 3: Warning + Mandatory Cooling Off Period (Tool Access Retained)
 A private warning from project leadership, with **clarity of violation, consequences of continued behavior**. Additionally:
 * Request to avoid interaction on community messaging platforms (public forums, commenting on bugs).
-* Requirement, they not interaction with others in the report, or those who they suspect are involved in the report.
+* Required to not interact with others in the report, or those who they suspect are involved in the report.
     * This includes avoiding any interactions in any Mozilla channels, spaces/offices, as well as external channels like social media (Twitter, Facebook). For example,  'following/liking/retweeting' would be considered a violation of these terms, and consequence would escalate according to his ladder.
 * Mandatory Cooling off Period. (Tools are not revoked)
 * Mandatory CPG onboarding process.
