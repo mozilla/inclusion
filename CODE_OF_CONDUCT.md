@@ -1,15 +1,15 @@
-# Community Participation Guidelines
+#sinlee7022@gmail.com 지역사회참여지침
 
-This repository is governed by Mozilla's code of conduct and etiquette guidelines. 
-For more details, please read the
-[Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
+이 저장소는 모질라의 행동강령과 예절 지침에 의해 관리된다.  
+자세한 내용은 다음과 같이 읽어주세요.
+[모질라 공동체 참여 지침](https://www.mozilla.org/about/governance/policies/participation/)   .     
 
-## How to Report
-For more information on how to report violations of the Community Participation Guidelines, please read our '[How to Report](https://www.mozilla.org/about/governance/policies/participation/reporting/)' page.
+##    보고하는 방법  
+지역사회참여지침 위반 신고방법에 대한 자세한 내용은 우리 '우리'를 읽어주세요.[보고하는 방법](https://www.mozilla.org/about/governance/policies/participation/reporting/)페이지
 
 <!--
-## Project Specific Etiquette
+## 프로젝트 특정 예절
 
-In some cases, there will be additional project etiquette i.e.: (https://bugzilla.mozilla.org/page.cgi?id=etiquette.html).
-Please update for your project.
+경우에 따라, 추가 프로젝트 에티켓이 있습니다. 즉: (https://bugzilla.mozilla.org/page.cgi?id=etiquette.html).
+당신의 프로젝트를 업데이트하십시오.
 -->
