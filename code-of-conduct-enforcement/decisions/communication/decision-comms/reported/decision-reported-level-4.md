@@ -2,8 +2,8 @@ Dear [ Individual, or list of Individuals]
 
 This email is to let you know that, in the last few weeks,  [org name] received [x number of] reports that you violated  Mozilla’s Community Participation Guidelines (“CPG”). These alleged violations took place in/at [location].  The actions that are alleged to have violated the CPG are:
 
-    * Violation 1  - [CPG exact wording]
-    * Violation 2  - [CPG exact wording]
+    * Violation 1  - [CPG exact wording i.e. Disruptive Behavior]
+    * Violation 2  - [CPG exact wording] i.e. Derogatory Language related to gender ]
 
 These reports were reviewed, and an investigation conducted by [working group or names].  [org name] determined that a material portion of [violations] were substantiated to our satisfaction following [org name] investigative process.  
 
@@ -12,7 +12,7 @@ The decision was made to [issue/enforce] a [# of weeks] mandatory ban from parti
     * Role or activity is deactivated/disabled/
     * Role or activity is deactivated/disabled/
 
-This is a private warning/series of actions.  Should new reports emerge of additional CPG violations additional consequences according to the consequence ladder of escalation could apply.
+This is a private warning/series of actions.  Should new reports emerge of additional CPG violations additional consequences according to the consequence ladder of escalation will apply.
 
 After [end date of suspension]if you would like to reinstate your [roles or activity] you will be required to attend a Community Participation Guidelines onboarding.
 
