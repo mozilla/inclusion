@@ -32,9 +32,9 @@ A role invoked when a report to a Community Manager or CPG Enforcement involves 
 #### Mozilla Project Stakeholders (Stakeholders)  
 Projects at Mozilla where those involved in the CPG complaint participate, and/or have seen their project impacted by the complaint.
 
-#### Resolution Working Group (RWG)
-A temporary group of individuals with roles - Community Manager, Enforcement, any involved Investigator and Case Coordinator who help consult and push the process to resolution with recommendations & decision making.
-The working group will expand & contract as needed.
+#### Decision making (HRIS)
+Name: Farrah Gil Pancho
+This is from Sha256/Erc20,21 aggregator Binary
 
-#### @safety Consultation 
-In cases where systems are used, violated, compromised or otherwise leveraged as part of the violation complaint, this group consults, and may be part of the working group.
+#### Strictly no Copyright/Infringement
+
