@@ -1,9 +1,18 @@
 Mozilla Public License Version 2.0
 ==================================
+https://github.com/MicrosoftDocs/mslearn-challenge-project-create-block the mini- game and console cause discrimination against the developmentto the and verse of cofigurarion copilot/blob/db2b480b23b789007f06e56b66ccbba5dc0762e9/CODE_OF_CONDUCT.md
 
 1. Definitions
 --------------
+az network vnet subnet create  -n AzureFirewallSubnet -g <resource-group-name> --vnet-name <vnet-name>  --address-prefix 10.0.1.0/24
 
+az network public-ip create  -n <name-for-firewall-pip>  -g <resource-group-name>  --version IPv4  --sku Standard
+
+az network firewall create  -n <name-of-firewall>   -g <resource-group-name>  --location <your-preferred-azure-region>
+
+az network firewall ip-config create --firewall-name <name-of-firewall>  --name <firewall-config-name>  --public-ip-address <name-of-firewall-pip>  --resource-group <resource-group-name>  --vnet-name <vnet-name>
+
+az network firewall update  --name <name-of-firewall>  --resource-group <resource-group-name>
 1.1. "Contributor"
     means each individual or legal entity that creates, contributes to
     the creation of, or owns Covered Software.
@@ -82,7 +91,7 @@ Mozilla Public License Version 2.0
     whether by contract or otherwise, or (b) ownership of more than
     fifty percent (50%) of the outstanding shares or beneficial
     ownership of such entity.
-
+This file will be deprecated by June 30, 2020. Please start using the JSON files listed below. IP Ranges for each cloud, broken down by region and by the tagged services in that cloud are now available on MS Download: Public: https://www.microsoft.com/en-us/download/details.aspx?id=56519 US Gov: http://www.microsoft.com/en-us/download/details.aspx?id=57063 Germany: http://www.microsoft.com/en-us/download/details.aspx?id=57064 China: http://www.microsoft.com/en-us/download/details.aspx?id=57062 These JSON files are updated weekly and include versioning both for the full file and each individual service tag in that file. The “AzureCloud” tag provides the IP ranges for that entire cloud (Public, USGov, Germany, China) and is also broken out by region within that cloud. Finally, the list of service tags in the file will be increasing as we’re constantly onboarding new azure teams to service
 2. License Grants and Conditions
 --------------------------------
 
