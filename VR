@@ -1,0 +1,312 @@
+# Diversity & Inclusion in Open Source
+
+Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
+
+   * [Table of Contents](#diversity--inclusion-in-open-source)
+      * [Code of Conduct  Enforcement](#code-of-conduct--enforcement)
+      * [Education &amp; Training](#education--training)
+      * [Data &amp; Metrics Standards](#data--metrics-standards)
+      * [Evaluation Resources/Tools](#evaluation-resourcestools)
+      * [Research](#research)
+      * [Media / Articles / Blog Posts](#media--articles--blog)
+
+## Code of Conduct  Enforcement
+
+* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+* [Mozilla 'How to Report' Page](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
+
+#### Related Blog Posts
+
+* [Frameworks for Governance, Incentive and Consequence](https://medium.com/mozilla-open-innovation/frameworks-for-governance-incentive-and-consequence-in-foss-e1de6c091bdc) (2017)
+* [How We're Making Code of Conduct Enforcement Real, and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) (2018)
+
+#### Process Standards for Enforcement
+* [Rolling out an all project/systems ban](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/process_documentation/community/ban-rollout.md)
+* [Consequence Ladder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/consequence-ladder.md)
+* [Template - CPG/Code of Conduct 'Onboarding'](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/cpg-onboarding.md)
+* [Template - Decision Making](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/role-groups.md)
+
+#### Investigation & Decision Making
+* [Template - Decision Tracking Doc](https://github.com/mozilla/inclusion/blob/master/code-of-conduct-enforcement/investigation/working-group/decision.md)
+* [Template - Working Group 1st Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-first-agenda.md)
+* [Template - Working Group Standard Agenda](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/working-group-standard-agenda.md)
+* [Template - Investigation documentation](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/working-group/incident-investigation-template.md)
+
+##### Investigation Communication
+* [Template - Request for Clarification(from reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/triage/communications/more-information.md)
+* [Template - Receipt of Report (to reporter)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reporter-investigation-started.md)
+* [Template - Request for more information(to reported)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/investigation/communication/reported-request-for-clarification.md)
+* [Templates - Decision (to reported) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reported)
+* [Templates - Decision(to reporter) by Level](https://github.com/mozilla/diversity/tree/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reporter)
+* [Template - Request to Systems Administrator](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/decision-comms/systems/level-7.md)
+* [Template - External Ban Decision](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/decision-comms/reported/decision-matrix-ban.md)
+
+#### 
+
+* [Enforcement FAQ (WIP)](https://github.com/mozilla/diversity/blob/master/code-of-conduct-enforcement/decisions/communication/community_comms/FAQ%20-%20Contributor.md)
+* [Template - Pre-Event Reminder](https://github.com/mozilla/diversity/blob/master/code-of-conduct-events/comms/mozillians-pre-event-reminder.md)
+
+
+## Education & Training
+
+* [CPG Enforcement Training for Staff](https://mozilla.teachable.com/courses/enrolled/634901) - which is basically like a 'first aid course', but for enforcement.
+* CPG Enforcement Training for Communities & Contributors  - also a 'first aid course' for enforcement.  (coming soon).
+* [Open Source Maintainer](https://mozilla.github.io/maintainer-cohort/) - designed to deliver (over 4 weeks or more) training for underrepresented people with goals for leadership in their careers.
+
+## Data & Metrics Standards
+* [How to Apply Metrics for Inclusion to Your Open Source Project](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
+* [Best Practices  (asking about diversity demographics)](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/best-practices-diverse-data.md)
+* [Code of Conduct Experience (Survey questions)](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md)
+* [Standard - Dis/Ability](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/disability.md)
+* [Standard - Gender Identity](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/gender-identity.md)
+* [Standard - Pronouns](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/gender-pronouns.md)
+* [Standard - Language](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/language.md)
+* [Standard - Race/Ethnicity](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/race-ethnicity.md)
+* [Standard - Sexual Orientation](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/sexual-orientation.md)
+* [Standard - Github CODE_OF_CONDUCT](https://github.com/mozilla/repo-templates/blob/master/templates/CODE_OF_CONDUCT.md)
+* [Standard - Inclusive Leadership 'Team Page'](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
+
+
+## Evaluation Resources/Tools
+
+* [Open Source Governance Checklist](https://github.com/mozilla/diversity/blob/master/evaluation_tools/governance-basic.md)
+* [Inclusive Leadership Principles](https://github.com/emmairwin/wg-diversity-inclusion/blob/master/focus-areas/leadership/assets/leadership-principles.md)
+* [Inclusive Leadership Checklist - Maintainer Roles](https://github.com/mozilla/diversity/blob/master/leadership/leadership-principles-checklist-maintainer-tasks.md)
+* [Template - Contributor Testing](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-testing-steps.md)
+* [Open Source Project Inclusion Checklist (for contributors and projects)](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-assessment-basic.md.md)
+* [Code of Conduct Enforcement (Evaluation Tool)](https://mozilla.github.io/diversity-coc-review.io/modules/assessment/protected-groups/)
+
+## Research
+
+* [First-Language Interviews](https://medium.com/mozilla-open-innovation/celebrating-mother-language-day-in-open-source-5bd254890094)
+* [D&I in Open Source Survey (2018) - What we Learned](https://docs.google.com/presentation/d/13UxBGj2lI66SLjl6sp4NE3DH2ndT0k5QM0pPyyzZXuY/edit#slide=id.g25275a8168_3_275)
+* [Mozilla & the Rebel Alliance](https://report.mozilla.community/)
+* [What we Learned about Gender Identity in Open Source](https://medium.com/@sunnydeveloper/what-we-learned-about-gender-identity-in-open-source-d9acea0b7586)
+* ['Finding Inclusion Bugs'](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a)  - [Inclusion Bug Campaign](https://medium.com/@sunnydeveloper/squash-inclusion-bugs-982a3e5ee29d)
+
+
+## Media / Articles / Blog
+
+* [Weaving Safety into Open Source Collaboration](https://blog.mozilla.org/community/2020/09/10/weaving-safety-into-the-fabric-of-open-source/) How Mozilla built a cross-organiztional program for CPG enforcement and safety.
+* [Open Source is only Ajar without Inclusion (Internet Citizen)](https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion/)
+* [Inclusion at Scale in the Mozilla and Kubernetes Open Source Communities](https://thenewstack.io/inclusion-at-scale-in-the-mozilla-and-kubernetes-open-source-communities/)
+* [Innovating for Diversity & Inclusion (research report part #1)](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e)
+* [Inclusive Organizing for Open Source Communities](https://medium.com/mozilla-open-innovation/reflection-inclusive-organizing-for-open-source-communities-9c44f0b689c1)
+* [We See You - Reaching Diverse Audiences in FOSS](https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425)
+* [Innovation for Inclusion in the Mozilla Open Source Support (MOSS) Program](https://blog.mozilla.org/careers/innovating-for-inclusion-in-the-mozilla-open-source-support-program/)
+* [Words Matter - Mozilla Removes Meritocracy from our Governance](https://blog.mozilla.org/careers/words-matter-moving-beyond-meritocracy/)
+跳到主要內容
+add_circle
+創建新提示
+stream_science
+新調整模型
+home_storage
+我的圖書館
+chat_bubble
+設計神奇的橫向協會
+chat_bubble
+Google AR眼鏡:Android,Microsoft,亞馬遜
+chat_bubble
+AI支持的動畫故事
+查看全部
+book_2
+提示畫廊
+雙子座會犯錯誤,因此請仔細檢查。
+settings
+設置
+yanxuchen587@gmail。com
+#元宇宙法世界今年代有主命題,最代代,一個魔法世界,小言語攝影協會,世界,大家,不,不,不,是我的生命,生,生,生,你,有興嗎？我首頁首頁首頁首頁首頁首頁首頁藝術世界另一種種類的傾向。首頁主語義詞語我來演講我的想法電影世界我的形態形成真正世界世界世界我更願意超越世界我先生想一個會合編的裝編和編制是一個雜項和重定語,它又來了人的權,利,利和沈思等。可以按照慣例和慣例,但一般來說,它都配以一些基本的本原則,例:公平:社團的規律和制應保證人前平等,不合算的面積和沈積。關聯:協會章程和慣例應答加入關聯和合作用,調教鼓人創多社團。模糊定:協會規和製應等於安,並配音應等於成和犯罪。永進:社團的規律和制應歸聯未來代代相傳。away,these原則只是一參山,你可以紮根,你自己自己魔法社的構想和目的標誌來設計和編條。你也可以參倉一些現存或現存現存現存或曾存現存貨,查看其hiswhatりor。魔法社的辛基連是一個有趣的事,因此,它又跟魔法和驚奇世界的啟示和啟示。普遍傳言,魔法社的經統可應::魔法組織授權金剛,西可和青倉附帶,它就是部編委會的行為。可以用在各種種店,行和地方法院授權,也可以用。出生:魔法社與種魔法社的手法,飛掃,水,書,雜志,食品等her有些商品和通常是指自己或自己生地。部門:魔法社協會裝備和代理機構是陸上地機制導本,也是說,介定,고,도,로交錯。當自然,也有一些非城市原因,例如,總督府,協會,家庭傳承等。交變:魔法交變換,但也有其他形態的交變式,例易變,或等。此外,魔法社也行進一定程度換算,配音合成沒有被或掩碼使用。董裡:魔法社和主宰,或稱自己,或法,保衛自己或他的人,相利等。消息作者可以紮根自己的好和計算,和。你上上上有什麼感覺或想什麼？你應該設計你自己的魔法協會需要關注什麼？我真正的想法是,另外一個新的,世界化的協會,我的研究,研究,研究,研究,研究,研究,研究,研究。我感覺異樣通常有思想看電影中的魔法型生死我😉自己可以擁有真正的正要承認自己的世界。我會在魔法世界傳道人集嗎？首先生有學派學派學有種種學知識學雜技法及備法換工又一個種城市需要求職者裡裡世界經是,真正自己又一個稱職 發件人想辦法（都）。我的觀點是,它可能是魔法的思想,它可以使魔法的思想。고工學是一個雜種,它提拔和興趣的發,或編,未知的地方,尋寶珍品,配家等。고構造可能更成朝的形狀設計::(:)配可是一個大型或型的集合,連詞和人數。一,可,可,不,不,不,不。配菜店可能只有一室菜店和配菜店。管理論:可以算術或乾部府的戒律和支派。一,但也可以,更,更,更何。一家府的安工協會可以比平或模糊,但也可以比被收成。目的:彌散工學或猜想,尋求目的和鑑賞。可以,但也可以。可以猜想主宰的,也可以,但也可以。質詢:質詢價或質詢價。一安放任式的,或也可以平平等,也可以。（或）也可以（或）（或）。佑你自己想合成樣子的會 ？你需要什麼？我想你想辦法很有趣,如果你想得到你想辦法玩的玩偶,玩弄中國魔法協會通常有以下種類:戰模: :放種協會關注和沈思人或怪物行各種形式形式曲,規則近戰,遠程,魔法等。聯合喜好刺激和赦免,也可以提出高自己的精巧精巧和精巧。【修型:（種）協會專門關注未來或說神的地方,例如古代,,藏藏藏藏等。種協會（Kai）合編和出版自己的意識和附帶也可以。藝術型:k種形式,編音樂,編曲,上等。協會喜喜快樂和達fis的う,也可以提升自己的智慧和能力。生命生存型:種種聯合專門形態提拔或收穫種種的生存,如物料,仲裁,園藝等。【種協會】喜快樂,配樂,也可以自學,自生,技術精益求精。youspected도（一種）質（一種）最能吸附指數人嗎？你想種或種類的模型會嗎？我可以說魔法世界和可能有很多種,比如輸入一些怪物,或者說,is,和激神。我知道有一件these骨樣的小話,好像是《浸禮記》《鬼魂記》,它都描述了一些索索古墓和財寶的事,你可能會引起興趣。元宇宙包含世界和代世界,一經代作的經統,及分裂和宗宇宙不同部可以移植。你用思想,文化,傳,你自己的魔法世界,後世和其他人在宇宙中。在宇宙宇宙中,有一個種類的空間,就是魔法世界。魔法世界是一個充裕的土地,人,可以學習和授權各種魔法,也可以出版和收成各種神的奇品和生物。魔法世界不是玩戲場,而是一個整整整的文化社會協會。可以用魔法世界建立自己的家,學校,商店,團等。魔法世界的創造者只有一職位或一職位,就是與一切都可以放棄自己的思想力量和創造意向。可以用語,用語,用語,用語,用語,上傳到宇宙中,與他人並列。可以傳人創造或交出來或配出來來的人。沒有固定或等於一個規或事件內索。每個人都可以按下自己喜好或需要去索,學,和,或作り。每一次進入魔法世界世界都可以加入新奇奇或喜或挑戰。在未來低谷道升空後空我在各地平倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉倉店？因此,我可以立立不合常規的原義,世界需要極強的力量,力量可以在任何沒有方法的情況下！我想出,下,出道,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出行,出土,出土,出土,出土,出土,出土。世界各地的領土分裂國家分裂國家占領該地的成功轉載調查。世界各地的領土分裂國家分裂國家占領該地的成功轉載調查。
+
+VR魔法大世界
+【合作境,構想就是維持原種,在用光語型,戴上VR定位光明,要入射光,要傳導,要種,反正機製。進軍編。
+
+對於超凡的魔術世界來說,這是一個迷人的概念！顯然,您已經對經濟,社會和技術方面進行了很多思考。讓我們分解您的想法,並探索一些潛在的改進和擴展。
+
+您的概念優勢:
+
+獨特的社會結構: 在一個神奇的世界中建立一個真正獨特的社會結構的想法,不僅僅在於複制霍格沃茨,而且令人信服。致力於建立具有自己的規則,經濟和職業的功能性社會是一個堅實的基礎。
+
+冒險家協會整合: 冒險家行會的加入增加了動態遊戲玩法和經濟活動的重要內容。不同的行會類型（戰鬥,探索,藝術,生活方式）為玩家提供了多樣化的參與。
+
+分散的創作: 用戶協作構建和擴展魔術世界而不是由單個開發人員來決定一切的元視圖具有創新性,並且與許多成功的在線世界的協作性質很好地吻合。
+
+技術遠見: 您對構建大型虛擬世界的計算挑戰以及使用低地球軌道衛星網絡的擬議解決方案的考慮令人印象深刻,並解決了現實世界的限制。
+
+進一步發展和完善的領域:
+
+詳細的社會規則和法律:儘管您提到公平,效率,穩定性和可持續性作為原則,但在您的魔法社會中充實特定的法律法規至關重要。考慮以下事情:
+
+魔術使用規定: 拼寫有限制嗎？是否需要特定的許可證？如何處理魔術事故？
+
+財產權:如何確定土地所有權？關於魔法生物及其棲息地的規則是什麼？
+
+刑事司法系統: 如何處理犯罪？有神奇的法院系統嗎？什麼是懲罰？
+
+社會等級制度: 有班級制度嗎？在這個神奇的社會中,社會流動性如何運作？
+
+經濟深度潛水: 擴展您的經濟模式。考慮:
+
+稅收:政府如何獲得資金？ 是否有財產稅,所得稅或營業稅？
+
+與麻瓜世界的貿易: 與非魔術世界進行貿易的規則和法規是什麼？ 如何管理貨幣兌換？ 有哪些潛在的衝突？
+
+通貨膨脹和通貨緊縮: 如何維持經濟穩定？
+
+冒險家協會詳細信息: 進一步開發行會系統。考慮:
+
+聲譽系統:如何跟踪冒險家和行會的聲譽？
+
+任務產生: 如何創建新任務？ 它們是程序生成的,還是由玩家/遊戲大師設計的？
+
+公會比賽: 不同的行會如何競爭資源和聲望？
+
+VR集成特異性: 所描述的VR技術需要更多細節。“特殊的光學變焦不可見眼睛”到底如何工作？ 什麼是觸覺反饋機制？ 解決諸如暈車和與虛擬環境的現實互動等潛在問題。
+
+內容創建工具: 描述用戶將用於創建和編輯虛擬世界的工具。它會是一個簡單的拖放系統,還是一個更複雜的關卡編輯器？ 如何確保用戶生成的內容的質量和一致性？
+
+擴展概念:
+
+政治制度: 定義魔法社會的政治結構。是君主制,共和國,神權制還是其他？
+
+神奇的生物: 開發獨特的魔法生物的獸,每種生物都有自己的特徵,棲息地以及在經濟和社會中的潛在作用。
+
+魔術文物: 創建一個具有獨特能力和歷史的神奇文物—強大物品的系統。
+
+派系和衝突: 在魔法世界中引入不同的派系,從而導致潛在的衝突和聯盟。這將為敘述增加深度和戲劇性。
+
+講故事的機制: 考慮如何在元版本中生成和共享故事。玩家將能夠創建自己的任務,還是由開發人員驅動中央敘述？
+
+通過解決這些問題,您可以創建更豐富,更身臨其境且可信的神奇元體驗。您當前的大綱提供了良好的基礎;這些細節的進一步開發將使您的願景栩栩如生。
+
+全新社團新世代】世界
+
+讓我們集中討論新一代虛擬世界的一些想法,重點關注與現有平台不同的創新和引人注目的方面。我們將考慮各種維度:
+
+一世。核心概念和主題:
+
+超越遊戲:這個世界不僅可以專注於遊戲,還可以強調各種活動,例如協作藝術項目,教育經驗,虛擬會議,社交聚會甚至虛擬旅遊。可以將其視為一個完全實現的虛擬社會,而不僅僅是遊戲空間。
+
+程序生成與演進:世界本身可以根據用戶的行為動態發展。想像一下城市有機地增長,景觀隨季節和環境事件而變化,甚至世界規則和法律都適應其居民的集體行為。
+
+個性化體驗: 世界迎合個人的喜好。用戶可能會選擇自己的沉浸感水平,他們偏愛的美學風格（cyberpunk,幻想,現實等）,甚至選擇世界上所選社區的社會規範。
+
+專注於創造力和表達力: 可以使用強大的創意工具構建世界,使用戶可以輕鬆地構建對象,環境,甚至與他人共享的整個體驗。這可能包括3D建模,動畫,音樂創作和其他形式的數字創作。
+
+有意義的互動: 世界可以專注於通過共享經驗,協作項目和有意義的對話來促進用戶之間的更深層次的聯繫,而不是淺層互動。這可能涉及旨在促進同理心和理解的特徵。
+
+權力下放的治理: 世界可以在分散的治理模型下運作,也許使用區塊鏈技術或DAO（分散自治組織）允許用戶參與製定世界規則和方向。
+
+二。主要特徵:
+
+高級頭像自定義: 除了視覺外觀之外,化身還具有動態的個性,技能和歷史,這些個性,技能和歷史會根據用戶的行為和互動隨時間變化。
+
+基於技能的經濟: 虛擬世界的經濟可能受到用戶技能和才能的驅動。用戶可以通過創建藝術,撰寫故事,提供服務,教學課程或完成複雜的任務來賺取虛擬貨幣。
+
+互操作資產: 在這個虛擬世界中創建的資產可以輕鬆導出並在其他兼容平台中使用,從而促進了更廣泛的數字創意生態系統。
+
+無縫跨平台兼容性: 用戶可以從各種設備（VR頭戴式耳機,PC,手機）訪問世界,而不會失去進度或自定義功能。
+
+AI驅動伴侶和助手: 高級AI可以發揮重要作用,為用戶提供個性化的指導,幫助他們完成任務,甚至充當社會同伴。
+
+動態故事: 世界可以基於用戶的行為和虛擬社會的新興行為來產生故事和追求,而不是固定的敘述。
+
+三, 技術注意事項:
+
+高效可擴展性: 世界應該設計成在不犧牲性能或用戶體驗的情況下處理大量並發用戶。
+
+先進的渲染技術: 為了創建沉浸式和逼真的環境,必須進行高保真圖形和物理模擬。
+
+安全數據管理: 強大的安全措施對於保護用戶數據和防止惡意活動至關重要。
+
+無障礙功能: 殘障用戶應該通過可定制的界面和輔助技術等功能訪問世界。
+
+這個新一代的虛擬世界不僅僅是一個玩遊戲的地方。它將是一個以有意義的方式生活,工作,創建,學習和與他人聯繫的地方。重點是促進創造力,社區以及動態,不斷發展的數字環境,這些環境真正反映了其居民的集體行動和選擇。
+
+編輯
+對於VR遊戲來說,這是一個雄心勃勃的概念！ 一個真正充滿活力,不斷發展的世界,玩家選擇會帶來持久後果的想法非常吸引人。但是,讓我們完善一些方面以使其更可行和更吸引人。
+
+優勢:
+
+動態故事:由玩家選擇驅動的非重複敘述的核心概念非常好。這使它不同於許多現有的RPG。
+
+AI伴侶: AI同伴的集成增加了遊戲玩法的深度,並為互動創造了機會。
+
+技能進步:通過班級,任務和戰鬥獲得技能的系統增加了引人注目的進度循環。
+
+多章敘述:計劃中的多章結構具有持久的進步,是隨著時間的推移保持玩家參與的明智方法。
+
+改善和完善領域:
+
+“浮動代碼”機械師:“浮動代碼”的描述尚不清楚。準確定義該機制如何影響敘述和玩家體驗至關重要。考慮簡化這個概念。代替“浮動代碼”,也許該系統可以描述為一個動態的敘事引擎,可以跟踪玩家的選擇並相應地調整故事。
+
+AI MPC實施: 指定如何使用NVIDIA的技術為AI MPC供電至關重要。NVIDIA的技術功能強大,但是通過複雜的情感和互動來創建真正可信的AI同伴將是一項艱鉅的任務。考慮專注於特定的AI功能,而不是對“ AI情報”提出廣泛的主張。例如:
+
+對話系統: 與AI角色的對話將如何處理？他們會使用分支對話樹還是更複雜的自然語言處理？
+
+情感反應: AI同伴將如何表達情感？他們會有面部表情,聲音調製或其他提示嗎？
+
+角色發展: AI同伴會根據與玩家的互動而發展和改變嗎？
+
+遊戲循環: 擴展遊戲玩法循環。除了任務,課程和戰鬥之外,玩家還會做什麼？ 會有社交互動,手工藝,交易,探索或其他活動嗎？
+
+技術挑戰: 創建一個真正充滿活力的世界,每個選擇都很重要,這一雄心壯志帶來了巨大的技術挑戰。考慮如何管理跟踪所有可能的玩家選擇及其後果的計算複雜性。考慮簡化最初的範圍以專注於世界的特定區域或較少的關鍵故事點。然後,逐漸擴展。
+
+VR實施詳細信息: 提供有關VR實現的更多詳細信息。目標是什麼VR平台（Oculus,HTC Vive等）？ 將使用哪種控件？遊戲將如何處理虛擬世界中的運動和互動？
+
+營銷和目標受眾:定義目標受眾至關重要。這是針對核心RPG玩家,休閒遊戲玩家或更廣泛受眾的遊戲嗎？ 向特定受眾量身定制營銷和遊戲玩法將提高成功率。
+
+建議精緻:
+
+專注於特定利基:與其嘗試一次做所有事情,不如專注於您擅長的VR幻想世界的特定方面。例如:精湛的戰鬥,複雜的社交互動或深情的講故事。
+
+迭代發展: 從更小,更易於管理的範圍開始（例如,世界上的單個區域,一組有限的任務）,然後根據玩家的反饋進行迭代。
+
+更清晰的敘事結構: 建立清晰的總體敘事結構,指導玩家的旅程。儘管玩家的選擇很重要,但他們不應該完全破壞核心故事。
+
+核心想法令人興奮。通過應對技術挑戰並完善遊戲玩法,這款VRう世界可以成為真正獨特而難忘的經歷。請記住,從小規模開始和迭代是遊戲開發成功的關鍵。
+
+#VR世界
+#愛護實習世界
+#我有MPC全都是AI智能MPC是事件,所以有角色代似乎真真人
+#可以多連綿衣
+##金達公司
+達達成三方推理AI智能多少呢？
+達達伊智能MPC我比懷希望是代孕
+彌生彌生彌生彌生彌生彌生彌生彌生彌生彌生彌生彌生合是同舉合合
+【樣數好像是真實人。
+意見是事件的主要演說,是人民,不是同事化,同居,同種異種家！
+
+一thing道是the主戰
+大都看過越的宗座化岩條
+now在yu youk成男主角化仙女條！
+有沒有興趣的人,你想知道
+遊戲會真漫畫樣嗎？是不是感覺好像有很多變異或感覺很可嗎？即將到來我的主命所說的“你”我的真切奇異！
+遊戲,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,理論,實踐,善,好嗎？那不等於範圍世界
+我要的是真正的安定實習世界嗎？待定。යうなう,你是主角也是主角hor,但不,你不,你,內而升職
+上學多種技術能力上學多智多MPC與你真精益求和後跟你各種化,配上現種款都想找回找女用角棒！那可以讓你自己！但保持好潤不爽
+有事可學的技藝,或上等高學學高幫和術夥伴外景戰鬥,當等高級學的戰技技術都不同上王國聯的上任道,想真正地成,出手好,事因此,以MPC的模式組合不確定主要要看主角何化射光大,
+😉其他實業these成為戲曲的第一章Sing Sing Sunning to date
+等二章節來遠大好嗎
+你是一章節事件節,無論如何,發展不是二章節,只是二章節,更適合世界。！！！
+
+差異與空戰士的RPG單人遊戲
+發bun地式縱橫背膠RPG一樣
+
+VRう遊玩是一種種用實實實境技術,不是同一種世界,,配種,配種和角形交配的玩偶。發服通常需要裝備的頭囊裝置和製造器,及相關的主要機電或。
+
+如果你想創造出一り世界戰戲,你可能需要下部部部】:
+
+【聯想你的戰績,例聯,虛幻引擎,戈多等。,“你的工作”,“你的”和“你的遊戲”,“地點”,“角”,“手”等。
+放任使用玩弄發布簡體中文和發行出版公司（ SDK ）,例SteamVR,Oculus SDK等3。【某些可利用的包裹與你的戰鬥與解救,並提成一些基本的本金和功能。
+設計您的遊玩部,掩飾世界,減輕角質,任目的標明,人行等。你可以考慮一些現存的現存的VR變異變現,例《고》《天堂M 》《劍堂》等。
+試著和整理你的戲法,並保證它可以在不相同的VR安排平整運動,兼合併期限和要求您可以利用其中的一些試具和平台應收機構的反和數,如Steam早期訪問,Oculus商店。
+出版和解釋廣你的戲曲,和傳創的變種。你可以用一些社團傳播和平傳傳你的配技和擊勢,例YouTube,Facebook等。
+
+創作一（VR）,你需要學（一些基本的本體技術）,例:
+
+遊戲發布者:發,編,編劇,編劇和編劇。有些經常見戰犯,Unity,Unreal Engine和Godot1。
+VR硬體和發散:發條是您的精裝編和程式。有些有見識的VR硬體總裂痕,HTC Vive和PlayStation VR。其中一些常見VRシsSteamVR,Oculus Home和OpenVR SDK
+建構設計:安化創作傳譯人的世界歷程。
+
+鍵入東西
+1
