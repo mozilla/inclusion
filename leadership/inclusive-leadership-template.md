@@ -1,4 +1,6 @@
-# Team Introduction
+# :heart: [Template] Community Team :heart:
+
+Team Introduction
 
 ## Primary Role Descriptions
 
