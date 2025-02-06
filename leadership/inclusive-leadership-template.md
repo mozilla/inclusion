@@ -1,10 +1,11 @@
-# :heart: [Template] Community Team :heart:
+# :heart: [Templ[text](https://vscode.dev/github/Daveydave101/kyla.ai..py/blob/mainy#L1-L17)ate] Community Team :heart:
 
 Team Introduction
 
 ## Primary Role Descriptions
 
 ### Supporting Success of the Project & Its Contributors
+
 Examples..
 
 - Responding to newcomer questions in [chat channel] and on GitHub.
