@@ -1,6 +1,4 @@
-# :heart: [Templ[text](https://vscode.dev/github/Daveydave101/kyla.ai..py/blob/mainy#L1-L17)ate] Community Team :heart:
-
-Team Introduction
+# Team Introduction
 
 ## Primary Role Descriptions
 
@@ -17,15 +15,16 @@ Examples..
 ### Building a Healthy and Inclusive Community
 
 - Leading by example, through adherence to [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) ("CPG").
-- [Looking for and reporting any violations of the Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/).
+- [Looking for and reporting any violations of the Community Participation Guidelines][def].
 - Ensuring opportunities for all levels of contribution, confidence, and background.
 
 ### Active Community Team Members
 
-Active Community Members are visibly active in our [chat channel] and/or GitHub channels. We identify active members as being those whom contributors and staff can most count on for a response within 2-3 days.
-
-|                                                                         | (Ordered alphabetically, by first name)                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+Active Community Members are visibly active in our [chat channel] and/or GitHub channels. We identify active members as being those whom contributors and staff can most count on for a response within 2-3days.|                                                                        | (Ordered alphabetically, by first name----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Active Community Members are visibly active in our [chat channel] and/or GitHub channels. We identify active members as being those whom contributors and staff can most count on for a response within 2-3days.|                                                                        | (Ordered alphabetically, by first name----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+====== 
+Active Community Members are visibly active in our [chat channel] and/or GitHub channels. We identify active members as being those whom contributors and staff can most count on for a response within 2-3days.|                                                                        | (Ordered alphabetically, by first name----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------
+| ------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------
 | ![octocat](https://avatars0.githubusercontent.com/u/583231?s=460&v=4)  | Ask Octocat about: <ul><li>Getting Started</li>Reporting Code of Conduct Violations<li>Why the sky is blue</li></ul>                                  |
 
 ### Members on Break/Paused
@@ -62,3 +61,6 @@ We embrace diversity, and invite people from any and all backgrounds to get invo
 Once per year, we'll check in with our team members (both _active_ and _on break_) to ensure they are feeling supported, and to check if they will remain active on our team for the coming months. If we do not hear back from members at check-in time, they will be transitioned to an emeritus role.
 
 As of this writing, **the next review period will be [ time ] **.
+
+
+[def]: https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/
