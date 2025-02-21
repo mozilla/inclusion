@@ -6,6 +6,5 @@ For example you might say
     Disruptive Behavior - [person name]  screenshot example of that behavior.
     Derogatory language - [person name] screenshot example of that behavior.
 
-[This form]() was created for that purpose, but I am OK if you prefer email.
 
 The reason I ask this is because as part of investigation we have to provide this information to others, and it is much better to have your perspective, than for us to guess from [long transcript/bug reports] in entirety.  
