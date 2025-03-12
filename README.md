@@ -1,3 +1,8 @@
+User  --->  EMG Sensors (Primary Input)  --->  VR System  --->  Virtual Environment
+       ^                                          ^
+       |                                          |
+       |                                          |
+Nanometer Light Imaging (Calibration) --->  Anatomical Model  --->  EMG Signal Processing
 # Diversity & Inclusion in Open Source
 
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
